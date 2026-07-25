@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/HrishikeshWadile/leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/HrishikeshWadile/leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/HrishikeshWadile/leetcode/tree/master/0268-missing-number) |
+| [2739-total-distance-traveled](https://github.com/HrishikeshWadile/leetcode/tree/master/2739-total-distance-traveled) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/HrishikeshWadile/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/HrishikeshWadile/leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Array
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/HrishikeshWadile/leetcode/tree/master/0258-add-digits) |
+| [2739-total-distance-traveled](https://github.com/HrishikeshWadile/leetcode/tree/master/2739-total-distance-traveled) |
 ## Number Theory
 |  |
 | ------- |
