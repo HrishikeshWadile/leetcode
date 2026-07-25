@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/HrishikeshWadile/leetcode/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/HrishikeshWadile/leetcode/tree/master/0338-counting-bits) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/HrishikeshWadile/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/HrishikeshWadile/leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Sorting
@@ -72,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/HrishikeshWadile/leetcode/tree/master/0283-move-zeroes) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/HrishikeshWadile/leetcode/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
