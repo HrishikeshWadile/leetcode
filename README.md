@@ -131,4 +131,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/HrishikeshWadile/leetcode/tree/master/0054-spiral-matrix) |
+## Concurrency
+|  |
+| ------- |
+| [1195-fizz-buzz-multithreaded](https://github.com/HrishikeshWadile/leetcode/tree/master/1195-fizz-buzz-multithreaded) |
 <!---LeetCode Topics End-->
