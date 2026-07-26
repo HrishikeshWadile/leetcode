@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/HrishikeshWadile/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0268-missing-number](https://github.com/HrishikeshWadile/leetcode/tree/master/0268-missing-number) |
+| [0383-ransom-note](https://github.com/HrishikeshWadile/leetcode/tree/master/0383-ransom-note) |
 | [0560-subarray-sum-equals-k](https://github.com/HrishikeshWadile/leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Binary Search
 |  |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/HrishikeshWadile/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0344-reverse-string](https://github.com/HrishikeshWadile/leetcode/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/HrishikeshWadile/leetcode/tree/master/0383-ransom-note) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/HrishikeshWadile/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/HrishikeshWadile/leetcode/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/HrishikeshWadile/leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/HrishikeshWadile/leetcode/tree/master/0383-ransom-note) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/HrishikeshWadile/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 ## Tree
 |  |
