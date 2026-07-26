@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/HrishikeshWadile/leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/HrishikeshWadile/leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/HrishikeshWadile/leetcode/tree/master/0268-missing-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/HrishikeshWadile/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [2739-total-distance-traveled](https://github.com/HrishikeshWadile/leetcode/tree/master/2739-total-distance-traveled) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/HrishikeshWadile/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/HrishikeshWadile/leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/HrishikeshWadile/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/HrishikeshWadile/leetcode/tree/master/0283-move-zeroes) |
 | [0560-subarray-sum-equals-k](https://github.com/HrishikeshWadile/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0628-maximum-product-of-three-numbers](https://github.com/HrishikeshWadile/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/HrishikeshWadile/leetcode/tree/master/0724-find-pivot-index) |
 | [1991-find-the-middle-index-in-array](https://github.com/HrishikeshWadile/leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2239-find-closest-number-to-zero](https://github.com/HrishikeshWadile/leetcode/tree/master/2239-find-closest-number-to-zero) |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/HrishikeshWadile/leetcode/tree/master/0268-missing-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/HrishikeshWadile/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 ## String
 |  |
 | ------- |
