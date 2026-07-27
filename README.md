@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/HrishikeshWadile/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0032-longest-valid-parentheses](https://github.com/HrishikeshWadile/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0344-reverse-string](https://github.com/HrishikeshWadile/leetcode/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/HrishikeshWadile/leetcode/tree/master/0383-ransom-note) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/HrishikeshWadile/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/HrishikeshWadile/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0338-counting-bits](https://github.com/HrishikeshWadile/leetcode/tree/master/0338-counting-bits) |
 ## Greedy
 |  |
@@ -135,4 +137,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1195-fizz-buzz-multithreaded](https://github.com/HrishikeshWadile/leetcode/tree/master/1195-fizz-buzz-multithreaded) |
+## Stack
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/HrishikeshWadile/leetcode/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
