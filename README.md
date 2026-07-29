@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2739-total-distance-traveled](https://github.com/HrishikeshWadile/leetcode/tree/master/2739-total-distance-traveled) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/HrishikeshWadile/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/HrishikeshWadile/leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/HrishikeshWadile/leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Array
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/HrishikeshWadile/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/HrishikeshWadile/leetcode/tree/master/0383-ransom-note) |
 | [0560-subarray-sum-equals-k](https://github.com/HrishikeshWadile/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/HrishikeshWadile/leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1221-split-a-string-in-balanced-strings](https://github.com/HrishikeshWadile/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/HrishikeshWadile/leetcode/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/HrishikeshWadile/leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/HrishikeshWadile/leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Segment Tree
 |  |
 | ------- |
@@ -121,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0383-ransom-note](https://github.com/HrishikeshWadile/leetcode/tree/master/0383-ransom-note) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/HrishikeshWadile/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/HrishikeshWadile/leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Tree
 |  |
 | ------- |
@@ -155,4 +159,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/HrishikeshWadile/leetcode/tree/master/0032-longest-valid-parentheses) |
+## Combinatorics
+|  |
+| ------- |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/HrishikeshWadile/leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 <!---LeetCode Topics End-->
