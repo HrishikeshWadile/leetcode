@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1408-string-matching-in-an-array](https://github.com/HrishikeshWadile/leetcode/tree/master/1408-string-matching-in-an-array) |
 | [1446-consecutive-characters](https://github.com/HrishikeshWadile/leetcode/tree/master/1446-consecutive-characters) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/HrishikeshWadile/leetcode/tree/master/1704-determine-if-string-halves-are-alike) |
+| [1768-merge-strings-alternately](https://github.com/HrishikeshWadile/leetcode/tree/master/1768-merge-strings-alternately) |
 | [2027-minimum-moves-to-convert-string](https://github.com/HrishikeshWadile/leetcode/tree/master/2027-minimum-moves-to-convert-string) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/HrishikeshWadile/leetcode/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/HrishikeshWadile/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/HrishikeshWadile/leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/HrishikeshWadile/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/HrishikeshWadile/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [1768-merge-strings-alternately](https://github.com/HrishikeshWadile/leetcode/tree/master/1768-merge-strings-alternately) |
 | [3884-first-matching-character-from-both-ends](https://github.com/HrishikeshWadile/leetcode/tree/master/3884-first-matching-character-from-both-ends) |
 ## Dynamic Programming
 |  |
