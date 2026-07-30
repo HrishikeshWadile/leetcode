@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/HrishikeshWadile/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/HrishikeshWadile/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/HrishikeshWadile/leetcode/tree/master/0724-find-pivot-index) |
+| [1408-string-matching-in-an-array](https://github.com/HrishikeshWadile/leetcode/tree/master/1408-string-matching-in-an-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/HrishikeshWadile/leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2239-find-closest-number-to-zero](https://github.com/HrishikeshWadile/leetcode/tree/master/2239-find-closest-number-to-zero) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/HrishikeshWadile/leetcode/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/HrishikeshWadile/leetcode/tree/master/0383-ransom-note) |
 | [0415-add-strings](https://github.com/HrishikeshWadile/leetcode/tree/master/0415-add-strings) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/HrishikeshWadile/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1408-string-matching-in-an-array](https://github.com/HrishikeshWadile/leetcode/tree/master/1408-string-matching-in-an-array) |
 | [1446-consecutive-characters](https://github.com/HrishikeshWadile/leetcode/tree/master/1446-consecutive-characters) |
 | [2027-minimum-moves-to-convert-string](https://github.com/HrishikeshWadile/leetcode/tree/master/2027-minimum-moves-to-convert-string) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/HrishikeshWadile/leetcode/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
@@ -174,4 +176,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/HrishikeshWadile/leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+## String Matching
+|  |
+| ------- |
+| [1408-string-matching-in-an-array](https://github.com/HrishikeshWadile/leetcode/tree/master/1408-string-matching-in-an-array) |
 <!---LeetCode Topics End-->
