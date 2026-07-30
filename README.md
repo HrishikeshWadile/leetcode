@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/HrishikeshWadile/leetcode/tree/master/0383-ransom-note) |
 | [0415-add-strings](https://github.com/HrishikeshWadile/leetcode/tree/master/0415-add-strings) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/HrishikeshWadile/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1446-consecutive-characters](https://github.com/HrishikeshWadile/leetcode/tree/master/1446-consecutive-characters) |
 | [2027-minimum-moves-to-convert-string](https://github.com/HrishikeshWadile/leetcode/tree/master/2027-minimum-moves-to-convert-string) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/HrishikeshWadile/leetcode/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/HrishikeshWadile/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
