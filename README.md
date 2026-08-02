@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1642-furthest-building-you-can-reach](https://github.com/HrishikeshWadile/leetcode/tree/master/1642-furthest-building-you-can-reach) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/HrishikeshWadile/leetcode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1991-find-the-middle-index-in-array](https://github.com/HrishikeshWadile/leetcode/tree/master/1991-find-the-middle-index-in-array) |
+| [2016-maximum-difference-between-increasing-elements](https://github.com/HrishikeshWadile/leetcode/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2239-find-closest-number-to-zero](https://github.com/HrishikeshWadile/leetcode/tree/master/2239-find-closest-number-to-zero) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/HrishikeshWadile/leetcode/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/HrishikeshWadile/leetcode/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
