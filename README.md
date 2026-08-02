@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0559-maximum-depth-of-n-ary-tree](https://github.com/HrishikeshWadile/leetcode/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/HrishikeshWadile/leetcode/tree/master/2236-root-equals-sum-of-children) |
 ## Binary Tree
 |  |
@@ -234,4 +235,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/HrishikeshWadile/leetcode/tree/master/0187-repeated-dna-sequences) |
+## Depth-First Search
+|  |
+| ------- |
+| [0559-maximum-depth-of-n-ary-tree](https://github.com/HrishikeshWadile/leetcode/tree/master/0559-maximum-depth-of-n-ary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0559-maximum-depth-of-n-ary-tree](https://github.com/HrishikeshWadile/leetcode/tree/master/0559-maximum-depth-of-n-ary-tree) |
 <!---LeetCode Topics End-->
