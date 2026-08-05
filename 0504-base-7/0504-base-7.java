@@ -10,14 +10,14 @@ class Solution {
 
         StringBuilder sb = new StringBuilder();
         while (num > 0) {
-            sb.insert(0, num % 7);
+            sb.append(num % 7);
             num /= 7;
         }
 
         if (flag) {
-            sb.insert(0, "-");
+            sb.append("-");
         }
 
-        return sb.toString();
+        return sb.reverse().toString();
     }
 }
