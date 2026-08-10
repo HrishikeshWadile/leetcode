@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/HrishikeshWadile/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0697-degree-of-an-array](https://github.com/HrishikeshWadile/leetcode/tree/master/0697-degree-of-an-array) |
 | [1079-letter-tile-possibilities](https://github.com/HrishikeshWadile/leetcode/tree/master/1079-letter-tile-possibilities) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/HrishikeshWadile/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/HrishikeshWadile/leetcode/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/HrishikeshWadile/leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3731-find-missing-elements](https://github.com/HrishikeshWadile/leetcode/tree/master/3731-find-missing-elements) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1446-consecutive-characters](https://github.com/HrishikeshWadile/leetcode/tree/master/1446-consecutive-characters) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/HrishikeshWadile/leetcode/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1768-merge-strings-alternately](https://github.com/HrishikeshWadile/leetcode/tree/master/1768-merge-strings-alternately) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/HrishikeshWadile/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2027-minimum-moves-to-convert-string](https://github.com/HrishikeshWadile/leetcode/tree/master/2027-minimum-moves-to-convert-string) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/HrishikeshWadile/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/HrishikeshWadile/leetcode/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1079-letter-tile-possibilities](https://github.com/HrishikeshWadile/leetcode/tree/master/1079-letter-tile-possibilities) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/HrishikeshWadile/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/HrishikeshWadile/leetcode/tree/master/1704-determine-if-string-halves-are-alike) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/HrishikeshWadile/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/HrishikeshWadile/leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Tree
 |  |
@@ -233,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/HrishikeshWadile/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0187-repeated-dna-sequences](https://github.com/HrishikeshWadile/leetcode/tree/master/0187-repeated-dna-sequences) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/HrishikeshWadile/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Matrix
 |  |
 | ------- |
