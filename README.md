@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/HrishikeshWadile/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/HrishikeshWadile/leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/HrishikeshWadile/leetcode/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/HrishikeshWadile/leetcode/tree/master/2029-stone-game-ix) |
 | [2652-sum-multiples](https://github.com/HrishikeshWadile/leetcode/tree/master/2652-sum-multiples) |
 | [2739-total-distance-traveled](https://github.com/HrishikeshWadile/leetcode/tree/master/2739-total-distance-traveled) |
 | [2939-maximum-xor-product](https://github.com/HrishikeshWadile/leetcode/tree/master/2939-maximum-xor-product) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/HrishikeshWadile/leetcode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1991-find-the-middle-index-in-array](https://github.com/HrishikeshWadile/leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/HrishikeshWadile/leetcode/tree/master/2016-maximum-difference-between-increasing-elements) |
+| [2029-stone-game-ix](https://github.com/HrishikeshWadile/leetcode/tree/master/2029-stone-game-ix) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/HrishikeshWadile/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2239-find-closest-number-to-zero](https://github.com/HrishikeshWadile/leetcode/tree/master/2239-find-closest-number-to-zero) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/HrishikeshWadile/leetcode/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1642-furthest-building-you-can-reach](https://github.com/HrishikeshWadile/leetcode/tree/master/1642-furthest-building-you-can-reach) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/HrishikeshWadile/leetcode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [2027-minimum-moves-to-convert-string](https://github.com/HrishikeshWadile/leetcode/tree/master/2027-minimum-moves-to-convert-string) |
+| [2029-stone-game-ix](https://github.com/HrishikeshWadile/leetcode/tree/master/2029-stone-game-ix) |
 | [2939-maximum-xor-product](https://github.com/HrishikeshWadile/leetcode/tree/master/2939-maximum-xor-product) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/HrishikeshWadile/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/HrishikeshWadile/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -212,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1221-split-a-string-in-balanced-strings](https://github.com/HrishikeshWadile/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/HrishikeshWadile/leetcode/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/HrishikeshWadile/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2029-stone-game-ix](https://github.com/HrishikeshWadile/leetcode/tree/master/2029-stone-game-ix) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/HrishikeshWadile/leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Tree
 |  |
@@ -278,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/HrishikeshWadile/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/HrishikeshWadile/leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/HrishikeshWadile/leetcode/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/HrishikeshWadile/leetcode/tree/master/2029-stone-game-ix) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -306,12 +311,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/HrishikeshWadile/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/HrishikeshWadile/leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/HrishikeshWadile/leetcode/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/HrishikeshWadile/leetcode/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/HrishikeshWadile/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/HrishikeshWadile/leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/HrishikeshWadile/leetcode/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/HrishikeshWadile/leetcode/tree/master/2029-stone-game-ix) |
 ## Graph Theory
 |  |
 | ------- |
@@ -320,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/HrishikeshWadile/leetcode/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/HrishikeshWadile/leetcode/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |
