@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2239-find-closest-number-to-zero](https://github.com/HrishikeshWadile/leetcode/tree/master/2239-find-closest-number-to-zero) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/HrishikeshWadile/leetcode/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/HrishikeshWadile/leetcode/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
+| [2934-minimum-operations-to-maximize-last-elements-in-arrays](https://github.com/HrishikeshWadile/leetcode/tree/master/2934-minimum-operations-to-maximize-last-elements-in-arrays) |
 | [3033-modify-the-matrix](https://github.com/HrishikeshWadile/leetcode/tree/master/3033-modify-the-matrix) |
 | [3038-maximum-number-of-operations-with-the-same-score-i](https://github.com/HrishikeshWadile/leetcode/tree/master/3038-maximum-number-of-operations-with-the-same-score-i) |
 | [3151-special-array-i](https://github.com/HrishikeshWadile/leetcode/tree/master/3151-special-array-i) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/HrishikeshWadile/leetcode/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
+| [2934-minimum-operations-to-maximize-last-elements-in-arrays](https://github.com/HrishikeshWadile/leetcode/tree/master/2934-minimum-operations-to-maximize-last-elements-in-arrays) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/HrishikeshWadile/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/HrishikeshWadile/leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/HrishikeshWadile/leetcode/tree/master/3880-minimum-absolute-difference-between-two-values) |
