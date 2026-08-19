@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/HrishikeshWadile/leetcode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/HrishikeshWadile/leetcode/tree/master/0054-spiral-matrix) |
+| [0063-unique-paths-ii](https://github.com/HrishikeshWadile/leetcode/tree/master/0063-unique-paths-ii) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/HrishikeshWadile/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/HrishikeshWadile/leetcode/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/HrishikeshWadile/leetcode/tree/master/0268-missing-number) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/HrishikeshWadile/leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0063-unique-paths-ii](https://github.com/HrishikeshWadile/leetcode/tree/master/0063-unique-paths-ii) |
 | [0338-counting-bits](https://github.com/HrishikeshWadile/leetcode/tree/master/0338-counting-bits) |
 | [0486-predict-the-winner](https://github.com/HrishikeshWadile/leetcode/tree/master/0486-predict-the-winner) |
 | [1140-stone-game-ii](https://github.com/HrishikeshWadile/leetcode/tree/master/1140-stone-game-ii) |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/HrishikeshWadile/leetcode/tree/master/0054-spiral-matrix) |
+| [0063-unique-paths-ii](https://github.com/HrishikeshWadile/leetcode/tree/master/0063-unique-paths-ii) |
 | [3033-modify-the-matrix](https://github.com/HrishikeshWadile/leetcode/tree/master/3033-modify-the-matrix) |
 ## Concurrency
 |  |
