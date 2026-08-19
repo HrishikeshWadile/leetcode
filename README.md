@@ -242,11 +242,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/HrishikeshWadile/leetcode/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/HrishikeshWadile/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/HrishikeshWadile/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/HrishikeshWadile/leetcode/tree/master/2236-root-equals-sum-of-children) |
 ## Binary Tree
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/HrishikeshWadile/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/HrishikeshWadile/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/HrishikeshWadile/leetcode/tree/master/2236-root-equals-sum-of-children) |
 ## Linked List
 |  |
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/HrishikeshWadile/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/HrishikeshWadile/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Minimax
 |  |
 | ------- |
