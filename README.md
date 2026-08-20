@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2934-minimum-operations-to-maximize-last-elements-in-arrays](https://github.com/HrishikeshWadile/leetcode/tree/master/2934-minimum-operations-to-maximize-last-elements-in-arrays) |
 | [3033-modify-the-matrix](https://github.com/HrishikeshWadile/leetcode/tree/master/3033-modify-the-matrix) |
 | [3038-maximum-number-of-operations-with-the-same-score-i](https://github.com/HrishikeshWadile/leetcode/tree/master/3038-maximum-number-of-operations-with-the-same-score-i) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/HrishikeshWadile/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3151-special-array-i](https://github.com/HrishikeshWadile/leetcode/tree/master/3151-special-array-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/HrishikeshWadile/leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/HrishikeshWadile/leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/HrishikeshWadile/leetcode/tree/master/0415-add-strings) |
 | [2739-total-distance-traveled](https://github.com/HrishikeshWadile/leetcode/tree/master/2739-total-distance-traveled) |
 | [3038-maximum-number-of-operations-with-the-same-score-i](https://github.com/HrishikeshWadile/leetcode/tree/master/3038-maximum-number-of-operations-with-the-same-score-i) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/HrishikeshWadile/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3597-partition-string](https://github.com/HrishikeshWadile/leetcode/tree/master/3597-partition-string) |
 ## Number Theory
 |  |
