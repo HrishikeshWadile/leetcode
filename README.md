@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3597-partition-string](https://github.com/HrishikeshWadile/leetcode/tree/master/3597-partition-string) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/HrishikeshWadile/leetcode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3884-first-matching-character-from-both-ends](https://github.com/HrishikeshWadile/leetcode/tree/master/3884-first-matching-character-from-both-ends) |
+| [3931-check-adjacent-digit-differences](https://github.com/HrishikeshWadile/leetcode/tree/master/3931-check-adjacent-digit-differences) |
 ## Segment Tree
 |  |
 | ------- |
