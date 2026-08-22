@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/HrishikeshWadile/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/HrishikeshWadile/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3151-special-array-i](https://github.com/HrishikeshWadile/leetcode/tree/master/3151-special-array-i) |
+| [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/HrishikeshWadile/leetcode/tree/master/3402-minimum-operations-to-make-columns-strictly-increasing) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/HrishikeshWadile/leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/HrishikeshWadile/leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/HrishikeshWadile/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/HrishikeshWadile/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/HrishikeshWadile/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/HrishikeshWadile/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/HrishikeshWadile/leetcode/tree/master/3402-minimum-operations-to-make-columns-strictly-increasing) |
 ## Counting
 |  |
 | ------- |
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/HrishikeshWadile/leetcode/tree/master/0063-unique-paths-ii) |
 | [0766-toeplitz-matrix](https://github.com/HrishikeshWadile/leetcode/tree/master/0766-toeplitz-matrix) |
 | [3033-modify-the-matrix](https://github.com/HrishikeshWadile/leetcode/tree/master/3033-modify-the-matrix) |
+| [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/HrishikeshWadile/leetcode/tree/master/3402-minimum-operations-to-make-columns-strictly-increasing) |
 ## Concurrency
 |  |
 | ------- |
