@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3501-maximize-active-section-with-trade-ii](https://github.com/HrishikeshWadile/leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/HrishikeshWadile/leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3597-partition-string](https://github.com/HrishikeshWadile/leetcode/tree/master/3597-partition-string) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/HrishikeshWadile/leetcode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3884-first-matching-character-from-both-ends](https://github.com/HrishikeshWadile/leetcode/tree/master/3884-first-matching-character-from-both-ends) |
 ## Segment Tree
 |  |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3038-maximum-number-of-operations-with-the-same-score-i](https://github.com/HrishikeshWadile/leetcode/tree/master/3038-maximum-number-of-operations-with-the-same-score-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/HrishikeshWadile/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3597-partition-string](https://github.com/HrishikeshWadile/leetcode/tree/master/3597-partition-string) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/HrishikeshWadile/leetcode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Number Theory
 |  |
 | ------- |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/HrishikeshWadile/leetcode/tree/master/0541-reverse-string-ii) |
 | [1768-merge-strings-alternately](https://github.com/HrishikeshWadile/leetcode/tree/master/1768-merge-strings-alternately) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/HrishikeshWadile/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/HrishikeshWadile/leetcode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3884-first-matching-character-from-both-ends](https://github.com/HrishikeshWadile/leetcode/tree/master/3884-first-matching-character-from-both-ends) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/HrishikeshWadile/leetcode/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/HrishikeshWadile/leetcode/tree/master/3940-limit-occurrences-in-sorted-array) |
