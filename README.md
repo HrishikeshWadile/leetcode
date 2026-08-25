@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/HrishikeshWadile/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/HrishikeshWadile/leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/HrishikeshWadile/leetcode/tree/master/3870-count-commas-in-range) |
+| [3894-traffic-signal-color](https://github.com/HrishikeshWadile/leetcode/tree/master/3894-traffic-signal-color) |
 ## Array
 |  |
 | ------- |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3597-partition-string](https://github.com/HrishikeshWadile/leetcode/tree/master/3597-partition-string) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/HrishikeshWadile/leetcode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3884-first-matching-character-from-both-ends](https://github.com/HrishikeshWadile/leetcode/tree/master/3884-first-matching-character-from-both-ends) |
+| [3894-traffic-signal-color](https://github.com/HrishikeshWadile/leetcode/tree/master/3894-traffic-signal-color) |
 | [3931-check-adjacent-digit-differences](https://github.com/HrishikeshWadile/leetcode/tree/master/3931-check-adjacent-digit-differences) |
 ## Segment Tree
 |  |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/HrishikeshWadile/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3597-partition-string](https://github.com/HrishikeshWadile/leetcode/tree/master/3597-partition-string) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/HrishikeshWadile/leetcode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
+| [3894-traffic-signal-color](https://github.com/HrishikeshWadile/leetcode/tree/master/3894-traffic-signal-color) |
 ## Number Theory
 |  |
 | ------- |
