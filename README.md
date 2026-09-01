@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3513-number-of-unique-xor-triplets-i](https://github.com/HrishikeshWadile/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/HrishikeshWadile/leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/HrishikeshWadile/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/HrishikeshWadile/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/HrishikeshWadile/leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/HrishikeshWadile/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/HrishikeshWadile/leetcode/tree/master/3731-find-missing-elements) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/HrishikeshWadile/leetcode/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/HrishikeshWadile/leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/HrishikeshWadile/leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/HrishikeshWadile/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3597-partition-string](https://github.com/HrishikeshWadile/leetcode/tree/master/3597-partition-string) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/HrishikeshWadile/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/HrishikeshWadile/leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/HrishikeshWadile/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/HrishikeshWadile/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/HrishikeshWadile/leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/HrishikeshWadile/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/HrishikeshWadile/leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Sorting
 |  |
@@ -335,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0766-toeplitz-matrix](https://github.com/HrishikeshWadile/leetcode/tree/master/0766-toeplitz-matrix) |
 | [3033-modify-the-matrix](https://github.com/HrishikeshWadile/leetcode/tree/master/3033-modify-the-matrix) |
 | [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/HrishikeshWadile/leetcode/tree/master/3402-minimum-operations-to-make-columns-strictly-increasing) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/HrishikeshWadile/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Concurrency
 |  |
 | ------- |
@@ -396,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0993-cousins-in-binary-tree](https://github.com/HrishikeshWadile/leetcode/tree/master/0993-cousins-in-binary-tree) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/HrishikeshWadile/leetcode/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [3310-remove-methods-from-project](https://github.com/HrishikeshWadile/leetcode/tree/master/3310-remove-methods-from-project) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/HrishikeshWadile/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Binary Search Tree
 |  |
 | ------- |
