@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3731-find-missing-elements](https://github.com/HrishikeshWadile/leetcode/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/HrishikeshWadile/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/HrishikeshWadile/leetcode/tree/master/3880-minimum-absolute-difference-between-two-values) |
+| [3903-smallest-stable-index-i](https://github.com/HrishikeshWadile/leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/HrishikeshWadile/leetcode/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/HrishikeshWadile/leetcode/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Hash Table
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/HrishikeshWadile/leetcode/tree/master/1140-stone-game-ii) |
 | [1872-stone-game-viii](https://github.com/HrishikeshWadile/leetcode/tree/master/1872-stone-game-viii) |
 | [1991-find-the-middle-index-in-array](https://github.com/HrishikeshWadile/leetcode/tree/master/1991-find-the-middle-index-in-array) |
+| [3903-smallest-stable-index-i](https://github.com/HrishikeshWadile/leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Two Pointers
 |  |
 | ------- |
