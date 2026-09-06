@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/HrishikeshWadile/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/HrishikeshWadile/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/HrishikeshWadile/leetcode/tree/master/0049-group-anagrams) |
+| [0115-distinct-subsequences](https://github.com/HrishikeshWadile/leetcode/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/HrishikeshWadile/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0187-repeated-dna-sequences](https://github.com/HrishikeshWadile/leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0227-basic-calculator-ii](https://github.com/HrishikeshWadile/leetcode/tree/master/0227-basic-calculator-ii) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/HrishikeshWadile/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0063-unique-paths-ii](https://github.com/HrishikeshWadile/leetcode/tree/master/0063-unique-paths-ii) |
+| [0115-distinct-subsequences](https://github.com/HrishikeshWadile/leetcode/tree/master/0115-distinct-subsequences) |
 | [0338-counting-bits](https://github.com/HrishikeshWadile/leetcode/tree/master/0338-counting-bits) |
 | [0486-predict-the-winner](https://github.com/HrishikeshWadile/leetcode/tree/master/0486-predict-the-winner) |
 | [0907-sum-of-subarray-minimums](https://github.com/HrishikeshWadile/leetcode/tree/master/0907-sum-of-subarray-minimums) |
