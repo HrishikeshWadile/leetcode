@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/HrishikeshWadile/leetcode/tree/master/0415-add-strings) |
 | [0504-base-7](https://github.com/HrishikeshWadile/leetcode/tree/master/0504-base-7) |
 | [0541-reverse-string-ii](https://github.com/HrishikeshWadile/leetcode/tree/master/0541-reverse-string-ii) |
+| [0940-distinct-subsequences-ii](https://github.com/HrishikeshWadile/leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1079-letter-tile-possibilities](https://github.com/HrishikeshWadile/leetcode/tree/master/1079-letter-tile-possibilities) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/HrishikeshWadile/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1328-break-a-palindrome](https://github.com/HrishikeshWadile/leetcode/tree/master/1328-break-a-palindrome) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/HrishikeshWadile/leetcode/tree/master/0338-counting-bits) |
 | [0486-predict-the-winner](https://github.com/HrishikeshWadile/leetcode/tree/master/0486-predict-the-winner) |
 | [0907-sum-of-subarray-minimums](https://github.com/HrishikeshWadile/leetcode/tree/master/0907-sum-of-subarray-minimums) |
+| [0940-distinct-subsequences-ii](https://github.com/HrishikeshWadile/leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/HrishikeshWadile/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/HrishikeshWadile/leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/HrishikeshWadile/leetcode/tree/master/1510-stone-game-iv) |
