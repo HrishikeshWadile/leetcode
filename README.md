@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3731-find-missing-elements](https://github.com/HrishikeshWadile/leetcode/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/HrishikeshWadile/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/HrishikeshWadile/leetcode/tree/master/3880-minimum-absolute-difference-between-two-values) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/HrishikeshWadile/leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3903-smallest-stable-index-i](https://github.com/HrishikeshWadile/leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/HrishikeshWadile/leetcode/tree/master/3904-smallest-stable-index-ii) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/HrishikeshWadile/leetcode/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
@@ -367,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3033-modify-the-matrix](https://github.com/HrishikeshWadile/leetcode/tree/master/3033-modify-the-matrix) |
 | [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/HrishikeshWadile/leetcode/tree/master/3402-minimum-operations-to-make-columns-strictly-increasing) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/HrishikeshWadile/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/HrishikeshWadile/leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Concurrency
 |  |
 | ------- |
@@ -456,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/HrishikeshWadile/leetcode/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [3310-remove-methods-from-project](https://github.com/HrishikeshWadile/leetcode/tree/master/3310-remove-methods-from-project) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/HrishikeshWadile/leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Nim Game
 |  |
 | ------- |
