@@ -1,34 +1,32 @@
-import java.util.Arrays;
-
 class Solution {
     public int minimumCost(int m, int n, int[] horizontalCut, int[] verticalCut) {
         Arrays.sort(horizontalCut);
         Arrays.sort(verticalCut);
 
-        int i = m - 2;
-        int j = n - 2;
-        int hPieces = 1;
-        int vPieces = 1;
-        int cost = 0;
+        for (int i = 0; i < horizontalCut.length / 2; i++) {
+            int temp = horizontalCut[i];
+            horizontalCut[i] = horizontalCut[horizontalCut.length - 1 - i];
+            horizontalCut[horizontalCut.length - 1 - i] = temp;
+        }
 
-        while (i >= 0 && j >= 0) {
+        for (int i = 0; i < verticalCut.length / 2; i++) {
+            int temp = verticalCut[i];
+            verticalCut[i] = verticalCut[verticalCut.length - 1 - i];
+            verticalCut[verticalCut.length - 1 - i] = temp;
+        }
+        int i = 0, j = 0, s = 0;
+        while (i < m - 1 && j < n - 1) {
             if (horizontalCut[i] > verticalCut[j]) {
-                cost += horizontalCut[i--] * vPieces;
-                hPieces++;
+                s += horizontalCut[i++] * (j + 1);
             } else {
-                cost += verticalCut[j--] * hPieces;
-                vPieces++;
+                s += verticalCut[j++] * (i + 1);
             }
+        } while (i < m - 1) {
+            s += horizontalCut[i++] * (j + 1);
+        } while (j < n - 1) {
+            s += verticalCut[j++] * (i + 1);
         }
 
-        while (i >= 0) {
-            cost += horizontalCut[i--] * vPieces;
-        }
-
-        while (j >= 0) {
-            cost += verticalCut[j--] * hPieces;
-        }
-
-        return cost;
+        return s;
     }
 }
