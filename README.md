@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3151-special-array-i](https://github.com/HrishikeshWadile/leetcode/tree/master/3151-special-array-i) |
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/HrishikeshWadile/leetcode/tree/master/3218-minimum-cost-for-cutting-cake-i) |
 | [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/HrishikeshWadile/leetcode/tree/master/3402-minimum-operations-to-make-columns-strictly-increasing) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/HrishikeshWadile/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3423-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/HrishikeshWadile/leetcode/tree/master/3423-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/HrishikeshWadile/leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/HrishikeshWadile/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/HrishikeshWadile/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/HrishikeshWadile/leetcode/tree/master/0367-valid-perfect-square) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/HrishikeshWadile/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/HrishikeshWadile/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/HrishikeshWadile/leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Bit Manipulation
 |  |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/HrishikeshWadile/leetcode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/HrishikeshWadile/leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/HrishikeshWadile/leetcode/tree/master/3218-minimum-cost-for-cutting-cake-i) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/HrishikeshWadile/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3731-find-missing-elements](https://github.com/HrishikeshWadile/leetcode/tree/master/3731-find-missing-elements) |
 ## String
 |  |
@@ -295,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3147-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/HrishikeshWadile/leetcode/tree/master/3147-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/HrishikeshWadile/leetcode/tree/master/3218-minimum-cost-for-cutting-cake-i) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/HrishikeshWadile/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/HrishikeshWadile/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Greedy
 |  |
 | ------- |
