@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0504-base-7](https://github.com/HrishikeshWadile/leetcode/tree/master/0504-base-7) |
 | [0541-reverse-string-ii](https://github.com/HrishikeshWadile/leetcode/tree/master/0541-reverse-string-ii) |
 | [0686-repeated-string-match](https://github.com/HrishikeshWadile/leetcode/tree/master/0686-repeated-string-match) |
+| [0844-backspace-string-compare](https://github.com/HrishikeshWadile/leetcode/tree/master/0844-backspace-string-compare) |
 | [0917-reverse-only-letters](https://github.com/HrishikeshWadile/leetcode/tree/master/0917-reverse-only-letters) |
 | [0940-distinct-subsequences-ii](https://github.com/HrishikeshWadile/leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1079-letter-tile-possibilities](https://github.com/HrishikeshWadile/leetcode/tree/master/1079-letter-tile-possibilities) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/HrishikeshWadile/leetcode/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/HrishikeshWadile/leetcode/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/HrishikeshWadile/leetcode/tree/master/0415-add-strings) |
+| [0844-backspace-string-compare](https://github.com/HrishikeshWadile/leetcode/tree/master/0844-backspace-string-compare) |
 | [1389-create-target-array-in-the-given-order](https://github.com/HrishikeshWadile/leetcode/tree/master/1389-create-target-array-in-the-given-order) |
 | [2582-pass-the-pillow](https://github.com/HrishikeshWadile/leetcode/tree/master/2582-pass-the-pillow) |
 | [2739-total-distance-traveled](https://github.com/HrishikeshWadile/leetcode/tree/master/2739-total-distance-traveled) |
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/HrishikeshWadile/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/HrishikeshWadile/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0541-reverse-string-ii](https://github.com/HrishikeshWadile/leetcode/tree/master/0541-reverse-string-ii) |
+| [0844-backspace-string-compare](https://github.com/HrishikeshWadile/leetcode/tree/master/0844-backspace-string-compare) |
 | [0917-reverse-only-letters](https://github.com/HrishikeshWadile/leetcode/tree/master/0917-reverse-only-letters) |
 | [0922-sort-array-by-parity-ii](https://github.com/HrishikeshWadile/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [1768-merge-strings-alternately](https://github.com/HrishikeshWadile/leetcode/tree/master/1768-merge-strings-alternately) |
@@ -428,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/HrishikeshWadile/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0227-basic-calculator-ii](https://github.com/HrishikeshWadile/leetcode/tree/master/0227-basic-calculator-ii) |
+| [0844-backspace-string-compare](https://github.com/HrishikeshWadile/leetcode/tree/master/0844-backspace-string-compare) |
 | [0907-sum-of-subarray-minimums](https://github.com/HrishikeshWadile/leetcode/tree/master/0907-sum-of-subarray-minimums) |
 ## Combinatorics
 |  |
