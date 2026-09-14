@@ -1,34 +1,29 @@
+import java.util.Arrays;
+
 class Solution {
+    static  int index;
     public int[] findEvenNumbers(int[] digits) {
-        HashSet<Integer> set = new HashSet<>();
-
-        for (int i = 0; i < digits.length; i++) {
-            if (digits[i] == 0) continue; // no leading zero
-
-            for (int j = 0; j < digits.length; j++) {
-                if (j == i) continue;
-
-                for (int k = 0; k < digits.length; k++) {
-                    if (k == i || k == j) continue;
-
-                    if (digits[k] % 2 != 0) continue; // must be even
-
-                    int num = digits[i] * 100 + digits[j] * 10 + digits[k];
-
-                    set.add(num);
-                }
-            }
+        index = 0;
+        int[] freq = new int[10];
+        for (int i = 0;i < digits.length;i++) {
+            freq[digits[i]]++;
         }
-
-        int[] ans = new int[set.size()];
-        int x = 0;
-
-        for (int num : set) {
-            ans[x++] = num;
+        int[] result = new int[450];
+        generate(freq,3,0,result);
+        return Arrays.copyOf(result, index);
+    }
+    static void generate(int[] freq,int k,int num, int[] result){
+        if (k <= 0 ){
+            result[index++] =  num;
+            return;
         }
-
-        Arrays.sort(ans);
-
-        return ans;
+        for (int i = 0;i < 10;i++) {
+            if (freq[i] == 0) continue;
+            if (k == 3 && i == 0) continue;
+            if (k == 1  && i %2 !=0) continue;
+            freq[i]--;
+            generate(freq, k - 1, num* 10+ i, result);
+            freq[i]++;
+        }
     }
 }
