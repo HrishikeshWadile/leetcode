@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2016-maximum-difference-between-increasing-elements](https://github.com/HrishikeshWadile/leetcode/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2029-stone-game-ix](https://github.com/HrishikeshWadile/leetcode/tree/master/2029-stone-game-ix) |
 | [2032-two-out-of-three](https://github.com/HrishikeshWadile/leetcode/tree/master/2032-two-out-of-three) |
+| [2057-smallest-index-with-equal-value](https://github.com/HrishikeshWadile/leetcode/tree/master/2057-smallest-index-with-equal-value) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/HrishikeshWadile/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2239-find-closest-number-to-zero](https://github.com/HrishikeshWadile/leetcode/tree/master/2239-find-closest-number-to-zero) |
 | [2364-count-number-of-bad-pairs](https://github.com/HrishikeshWadile/leetcode/tree/master/2364-count-number-of-bad-pairs) |
