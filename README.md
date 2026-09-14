@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/HrishikeshWadile/leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/HrishikeshWadile/leetcode/tree/master/2029-stone-game-ix) |
 | [2364-count-number-of-bad-pairs](https://github.com/HrishikeshWadile/leetcode/tree/master/2364-count-number-of-bad-pairs) |
+| [2481-minimum-cuts-to-divide-a-circle](https://github.com/HrishikeshWadile/leetcode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [2582-pass-the-pillow](https://github.com/HrishikeshWadile/leetcode/tree/master/2582-pass-the-pillow) |
 | [2652-sum-multiples](https://github.com/HrishikeshWadile/leetcode/tree/master/2652-sum-multiples) |
 | [2739-total-distance-traveled](https://github.com/HrishikeshWadile/leetcode/tree/master/2739-total-distance-traveled) |
@@ -554,4 +555,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/HrishikeshWadile/leetcode/tree/master/0836-rectangle-overlap) |
+| [2481-minimum-cuts-to-divide-a-circle](https://github.com/HrishikeshWadile/leetcode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 <!---LeetCode Topics End-->
