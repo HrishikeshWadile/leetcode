@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0504-base-7](https://github.com/HrishikeshWadile/leetcode/tree/master/0504-base-7) |
 | [0628-maximum-product-of-three-numbers](https://github.com/HrishikeshWadile/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/HrishikeshWadile/leetcode/tree/master/0836-rectangle-overlap) |
+| [0892-surface-area-of-3d-shapes](https://github.com/HrishikeshWadile/leetcode/tree/master/0892-surface-area-of-3d-shapes) |
 | [1140-stone-game-ii](https://github.com/HrishikeshWadile/leetcode/tree/master/1140-stone-game-ii) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/HrishikeshWadile/leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1406-stone-game-iii](https://github.com/HrishikeshWadile/leetcode/tree/master/1406-stone-game-iii) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/HrishikeshWadile/leetcode/tree/master/0724-find-pivot-index) |
 | [0766-toeplitz-matrix](https://github.com/HrishikeshWadile/leetcode/tree/master/0766-toeplitz-matrix) |
 | [0835-image-overlap](https://github.com/HrishikeshWadile/leetcode/tree/master/0835-image-overlap) |
+| [0892-surface-area-of-3d-shapes](https://github.com/HrishikeshWadile/leetcode/tree/master/0892-surface-area-of-3d-shapes) |
 | [0907-sum-of-subarray-minimums](https://github.com/HrishikeshWadile/leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [0922-sort-array-by-parity-ii](https://github.com/HrishikeshWadile/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/HrishikeshWadile/leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
@@ -412,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/HrishikeshWadile/leetcode/tree/master/0063-unique-paths-ii) |
 | [0766-toeplitz-matrix](https://github.com/HrishikeshWadile/leetcode/tree/master/0766-toeplitz-matrix) |
 | [0835-image-overlap](https://github.com/HrishikeshWadile/leetcode/tree/master/0835-image-overlap) |
+| [0892-surface-area-of-3d-shapes](https://github.com/HrishikeshWadile/leetcode/tree/master/0892-surface-area-of-3d-shapes) |
 | [3033-modify-the-matrix](https://github.com/HrishikeshWadile/leetcode/tree/master/3033-modify-the-matrix) |
 | [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/HrishikeshWadile/leetcode/tree/master/3402-minimum-operations-to-make-columns-strictly-increasing) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/HrishikeshWadile/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -558,5 +561,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/HrishikeshWadile/leetcode/tree/master/0836-rectangle-overlap) |
+| [0892-surface-area-of-3d-shapes](https://github.com/HrishikeshWadile/leetcode/tree/master/0892-surface-area-of-3d-shapes) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/HrishikeshWadile/leetcode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 <!---LeetCode Topics End-->
