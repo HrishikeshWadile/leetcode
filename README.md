@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3151-special-array-i](https://github.com/HrishikeshWadile/leetcode/tree/master/3151-special-array-i) |
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/HrishikeshWadile/leetcode/tree/master/3218-minimum-cost-for-cutting-cake-i) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/HrishikeshWadile/leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3238-find-the-number-of-winning-players](https://github.com/HrishikeshWadile/leetcode/tree/master/3238-find-the-number-of-winning-players) |
 | [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/HrishikeshWadile/leetcode/tree/master/3402-minimum-operations-to-make-columns-strictly-increasing) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/HrishikeshWadile/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3423-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/HrishikeshWadile/leetcode/tree/master/3423-maximum-difference-between-adjacent-elements-in-a-circular-array) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/HrishikeshWadile/leetcode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2465-number-of-distinct-averages](https://github.com/HrishikeshWadile/leetcode/tree/master/2465-number-of-distinct-averages) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/HrishikeshWadile/leetcode/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
+| [3238-find-the-number-of-winning-players](https://github.com/HrishikeshWadile/leetcode/tree/master/3238-find-the-number-of-winning-players) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/HrishikeshWadile/leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/HrishikeshWadile/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/HrishikeshWadile/leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -371,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/HrishikeshWadile/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2029-stone-game-ix](https://github.com/HrishikeshWadile/leetcode/tree/master/2029-stone-game-ix) |
 | [2364-count-number-of-bad-pairs](https://github.com/HrishikeshWadile/leetcode/tree/master/2364-count-number-of-bad-pairs) |
+| [3238-find-the-number-of-winning-players](https://github.com/HrishikeshWadile/leetcode/tree/master/3238-find-the-number-of-winning-players) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/HrishikeshWadile/leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/HrishikeshWadile/leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Tree
