@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/HrishikeshWadile/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2239-find-closest-number-to-zero](https://github.com/HrishikeshWadile/leetcode/tree/master/2239-find-closest-number-to-zero) |
 | [2364-count-number-of-bad-pairs](https://github.com/HrishikeshWadile/leetcode/tree/master/2364-count-number-of-bad-pairs) |
+| [2432-the-employee-that-worked-on-the-longest-task](https://github.com/HrishikeshWadile/leetcode/tree/master/2432-the-employee-that-worked-on-the-longest-task) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/HrishikeshWadile/leetcode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2465-number-of-distinct-averages](https://github.com/HrishikeshWadile/leetcode/tree/master/2465-number-of-distinct-averages) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/HrishikeshWadile/leetcode/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
