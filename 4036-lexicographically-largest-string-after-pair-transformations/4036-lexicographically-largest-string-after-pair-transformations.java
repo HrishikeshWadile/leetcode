@@ -11,18 +11,22 @@ class Solution {
     }
 
     String create(int n) {
-        StringBuilder r = new StringBuilder();
-        int i = 25;
+        char[] r = new char[26];
+        int j = 25, i = 25;
 
         while (i >= 0 && n > 0) {
             if (n % 2 == 1) {
-                r.append((char) (25 - i + 'a'));
+                r[j--] = (char) (25 - i + 'a');
             }
 
             n /= 2;
             i--;
         }
-        if (n != 0) return "zz" + r.reverse().toString();
-        return r.reverse().toString();
+
+        if (n != 0) {
+            return "zz" + new String(r, j + 1, 25 - j);
+        }
+
+        return new String(r, j + 1, 25 - j);
     }
 }
