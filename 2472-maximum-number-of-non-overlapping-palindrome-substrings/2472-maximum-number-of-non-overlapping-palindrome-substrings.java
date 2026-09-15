@@ -1,84 +1,60 @@
 class Solution {
     public int maxPalindromes(String s, int k) {
+
         int n = s.length();
+        int min = k / 2 + 1;
         int count = 0;
 
         int i = 0;
 
         while (i + k <= n) {
 
-            int min = k / 2 + 1;
+            StringBuilder sb = new StringBuilder();
+            boolean found = false;
 
-            char[] cQ = new char[min];
+            for (int j = i; j < n && j < i + k + 1; j++) {
 
-            /*
-             * Fill the queue with the first required characters.
-             */
-            for (int j = 0; j < min; j++) {
-                cQ[j] = s.charAt(i + j);
-            }
+                // Insert newest character at the front.
+                sb.insert(0, s.charAt(j));
 
-            boolean[] state = {true, true};
+                int len = j - i + 1;
 
-            /*
-             * --------------------------------------------------
-             * Check k and k + 1 simultaneously.
-             * --------------------------------------------------
-             */
+                if (len >= k) {
 
-            int pairsK = k / 2;
-            int pairsK1 = (k + 1) / 2;
+                    // Latest k characters
+                    if (isPalindrome(sb, k)) {
+                        count++;
+                        i = j + 1;
+                        found = true;
+                        break;
+                    }
 
-            /*
-             * k palindrome
-             */
-            for (int p = 0; p < pairsK; p++) {
-
-                int left = i + p;
-                int right = i + k - 1 - p;
-
-                if (s.charAt(left) != s.charAt(right)) {
-                    state[0] = false;
-                    break;
-                }
-            }
-
-            /*
-             * k + 1 palindrome
-             */
-            if (i + k + 1 <= n) {
-
-                for (int p = 0; p < pairsK1; p++) {
-
-                    int left = i + p;
-                    int right = i + k - p;
-
-                    if (s.charAt(left) != s.charAt(right)) {
-                        state[1] = false;
+                    // Latest k + 1 characters
+                    if (len >= k + 1 && isPalindrome(sb, k + 1)) {
+                        count++;
+                        i = j + 1;
+                        found = true;
                         break;
                     }
                 }
-
-            } else {
-                state[1] = false;
             }
 
-            /*
-             * Prefer k.
-             */
-            if (state[0]) {
-                count++;
-                i += k;
-            }
-            else if (state[1]) {
-                count++;
-                i += k + 1;
-            }
-            else {
+            if (!found) {
                 i++;
             }
         }
 
         return count;
+    }
+
+    private boolean isPalindrome(StringBuilder sb, int len) {
+
+        for (int i = 0; i < len / 2; i++) {
+            if (sb.charAt(i) != sb.charAt(len - 1 - i)) {
+                return false;
+            }
+        }
+
+        return true;
     }
 }
