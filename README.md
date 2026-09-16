@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/HrishikeshWadile/leetcode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/HrishikeshWadile/leetcode/tree/master/1563-stone-game-v) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/HrishikeshWadile/leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/HrishikeshWadile/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/HrishikeshWadile/leetcode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/HrishikeshWadile/leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/HrishikeshWadile/leetcode/tree/master/2029-stone-game-ix) |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/HrishikeshWadile/leetcode/tree/master/1140-stone-game-ii) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/HrishikeshWadile/leetcode/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/HrishikeshWadile/leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/HrishikeshWadile/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/HrishikeshWadile/leetcode/tree/master/1872-stone-game-viii) |
 | [1991-find-the-middle-index-in-array](https://github.com/HrishikeshWadile/leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [3147-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/HrishikeshWadile/leetcode/tree/master/3147-taking-maximum-energy-from-the-mystic-dungeon) |
@@ -351,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/HrishikeshWadile/leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/HrishikeshWadile/leetcode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/HrishikeshWadile/leetcode/tree/master/1563-stone-game-v) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/HrishikeshWadile/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/HrishikeshWadile/leetcode/tree/master/1872-stone-game-viii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/HrishikeshWadile/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2745-construct-the-longest-new-string](https://github.com/HrishikeshWadile/leetcode/tree/master/2745-construct-the-longest-new-string) |
@@ -463,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/HrishikeshWadile/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/HrishikeshWadile/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/HrishikeshWadile/leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## String Matching
