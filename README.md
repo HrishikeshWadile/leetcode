@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/HrishikeshWadile/leetcode/tree/master/1406-stone-game-iii) |
 | [1408-string-matching-in-an-array](https://github.com/HrishikeshWadile/leetcode/tree/master/1408-string-matching-in-an-array) |
 | [1436-destination-city](https://github.com/HrishikeshWadile/leetcode/tree/master/1436-destination-city) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/HrishikeshWadile/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1563-stone-game-v](https://github.com/HrishikeshWadile/leetcode/tree/master/1563-stone-game-v) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/HrishikeshWadile/leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1642-furthest-building-you-can-reach](https://github.com/HrishikeshWadile/leetcode/tree/master/1642-furthest-building-you-can-reach) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1079-letter-tile-possibilities](https://github.com/HrishikeshWadile/leetcode/tree/master/1079-letter-tile-possibilities) |
 | [1386-cinema-seat-allocation](https://github.com/HrishikeshWadile/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1436-destination-city](https://github.com/HrishikeshWadile/leetcode/tree/master/1436-destination-city) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/HrishikeshWadile/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1593-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/HrishikeshWadile/leetcode/tree/master/1593-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/HrishikeshWadile/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2032-two-out-of-three](https://github.com/HrishikeshWadile/leetcode/tree/master/2032-two-out-of-three) |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/HrishikeshWadile/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/HrishikeshWadile/leetcode/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/HrishikeshWadile/leetcode/tree/master/0374-guess-number-higher-or-lower) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/HrishikeshWadile/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/HrishikeshWadile/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/HrishikeshWadile/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/HrishikeshWadile/leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -351,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-distinct-subsequences-ii](https://github.com/HrishikeshWadile/leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/HrishikeshWadile/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/HrishikeshWadile/leetcode/tree/master/1406-stone-game-iii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/HrishikeshWadile/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1510-stone-game-iv](https://github.com/HrishikeshWadile/leetcode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/HrishikeshWadile/leetcode/tree/master/1563-stone-game-v) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/HrishikeshWadile/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -438,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/HrishikeshWadile/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0187-repeated-dna-sequences](https://github.com/HrishikeshWadile/leetcode/tree/master/0187-repeated-dna-sequences) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/HrishikeshWadile/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/HrishikeshWadile/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/HrishikeshWadile/leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Matrix
