@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/HrishikeshWadile/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1436-destination-city](https://github.com/HrishikeshWadile/leetcode/tree/master/1436-destination-city) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/HrishikeshWadile/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/HrishikeshWadile/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1593-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/HrishikeshWadile/leetcode/tree/master/1593-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/HrishikeshWadile/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2032-two-out-of-three](https://github.com/HrishikeshWadile/leetcode/tree/master/2032-two-out-of-three) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/HrishikeshWadile/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0922-sort-array-by-parity-ii](https://github.com/HrishikeshWadile/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/HrishikeshWadile/leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/HrishikeshWadile/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2094-finding-3-digit-even-numbers](https://github.com/HrishikeshWadile/leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/HrishikeshWadile/leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/HrishikeshWadile/leetcode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1422-maximum-score-after-splitting-a-string](https://github.com/HrishikeshWadile/leetcode/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1436-destination-city](https://github.com/HrishikeshWadile/leetcode/tree/master/1436-destination-city) |
 | [1446-consecutive-characters](https://github.com/HrishikeshWadile/leetcode/tree/master/1446-consecutive-characters) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/HrishikeshWadile/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1593-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/HrishikeshWadile/leetcode/tree/master/1593-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/HrishikeshWadile/leetcode/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1768-merge-strings-alternately](https://github.com/HrishikeshWadile/leetcode/tree/master/1768-merge-strings-alternately) |
@@ -374,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1221-split-a-string-in-balanced-strings](https://github.com/HrishikeshWadile/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1328-break-a-palindrome](https://github.com/HrishikeshWadile/leetcode/tree/master/1328-break-a-palindrome) |
 | [1386-cinema-seat-allocation](https://github.com/HrishikeshWadile/leetcode/tree/master/1386-cinema-seat-allocation) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/HrishikeshWadile/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1642-furthest-building-you-can-reach](https://github.com/HrishikeshWadile/leetcode/tree/master/1642-furthest-building-you-can-reach) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/HrishikeshWadile/leetcode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1927-sum-game](https://github.com/HrishikeshWadile/leetcode/tree/master/1927-sum-game) |
