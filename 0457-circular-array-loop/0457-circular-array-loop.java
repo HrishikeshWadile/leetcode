@@ -10,32 +10,22 @@ class Solution {
             int dir = nums[i] > 0 ? 1 : -1;
 
             while (true) {
+                // Direction changed
                 if (nums[j] * dir <= 0) break;
 
                 int next = ((j + nums[j]) % n + n) % n;
 
-                // Single-element loop
+                // Self-loop
                 if (next == j) break;
 
-                // Already visited in this traversal
+                // Cycle in current traversal
                 if (g[next] == i + 1) return true;
 
-                // Already processed by another traversal
+                // Merged into previous traversal
                 if (g[next] != 0) break;
 
                 g[j] = i + 1;
                 j = next;
-            }
-
-            // Mark the remaining path as processed
-            j = i;
-
-            while (g[j] == i + 1) {
-                int next = ((j + nums[j]) % n + n) % n;
-                g[j] = -g[j];
-                j = next;
-
-                if (next == j) break;
             }
         }
 
