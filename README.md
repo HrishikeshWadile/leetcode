@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/HrishikeshWadile/leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/HrishikeshWadile/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/HrishikeshWadile/leetcode/tree/master/0414-third-maximum-number) |
+| [0457-circular-array-loop](https://github.com/HrishikeshWadile/leetcode/tree/master/0457-circular-array-loop) |
 | [0485-max-consecutive-ones](https://github.com/HrishikeshWadile/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/HrishikeshWadile/leetcode/tree/master/0486-predict-the-winner) |
 | [0560-subarray-sum-equals-k](https://github.com/HrishikeshWadile/leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/HrishikeshWadile/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/HrishikeshWadile/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/HrishikeshWadile/leetcode/tree/master/0383-ransom-note) |
+| [0457-circular-array-loop](https://github.com/HrishikeshWadile/leetcode/tree/master/0457-circular-array-loop) |
 | [0560-subarray-sum-equals-k](https://github.com/HrishikeshWadile/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0697-degree-of-an-array](https://github.com/HrishikeshWadile/leetcode/tree/master/0697-degree-of-an-array) |
 | [0771-jewels-and-stones](https://github.com/HrishikeshWadile/leetcode/tree/master/0771-jewels-and-stones) |
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/HrishikeshWadile/leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/HrishikeshWadile/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/HrishikeshWadile/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0457-circular-array-loop](https://github.com/HrishikeshWadile/leetcode/tree/master/0457-circular-array-loop) |
 | [0541-reverse-string-ii](https://github.com/HrishikeshWadile/leetcode/tree/master/0541-reverse-string-ii) |
 | [0680-valid-palindrome-ii](https://github.com/HrishikeshWadile/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0844-backspace-string-compare](https://github.com/HrishikeshWadile/leetcode/tree/master/0844-backspace-string-compare) |
@@ -630,4 +633,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2745-construct-the-longest-new-string](https://github.com/HrishikeshWadile/leetcode/tree/master/2745-construct-the-longest-new-string) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0457-circular-array-loop](https://github.com/HrishikeshWadile/leetcode/tree/master/0457-circular-array-loop) |
 <!---LeetCode Topics End-->
