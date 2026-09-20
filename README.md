@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0697-degree-of-an-array](https://github.com/HrishikeshWadile/leetcode/tree/master/0697-degree-of-an-array) |
 | [0724-find-pivot-index](https://github.com/HrishikeshWadile/leetcode/tree/master/0724-find-pivot-index) |
 | [0766-toeplitz-matrix](https://github.com/HrishikeshWadile/leetcode/tree/master/0766-toeplitz-matrix) |
+| [0817-linked-list-components](https://github.com/HrishikeshWadile/leetcode/tree/master/0817-linked-list-components) |
 | [0835-image-overlap](https://github.com/HrishikeshWadile/leetcode/tree/master/0835-image-overlap) |
 | [0892-surface-area-of-3d-shapes](https://github.com/HrishikeshWadile/leetcode/tree/master/0892-surface-area-of-3d-shapes) |
 | [0907-sum-of-subarray-minimums](https://github.com/HrishikeshWadile/leetcode/tree/master/0907-sum-of-subarray-minimums) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/HrishikeshWadile/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0697-degree-of-an-array](https://github.com/HrishikeshWadile/leetcode/tree/master/0697-degree-of-an-array) |
 | [0771-jewels-and-stones](https://github.com/HrishikeshWadile/leetcode/tree/master/0771-jewels-and-stones) |
+| [0817-linked-list-components](https://github.com/HrishikeshWadile/leetcode/tree/master/0817-linked-list-components) |
 | [0957-prison-cells-after-n-days](https://github.com/HrishikeshWadile/leetcode/tree/master/0957-prison-cells-after-n-days) |
 | [1079-letter-tile-possibilities](https://github.com/HrishikeshWadile/leetcode/tree/master/1079-letter-tile-possibilities) |
 | [1386-cinema-seat-allocation](https://github.com/HrishikeshWadile/leetcode/tree/master/1386-cinema-seat-allocation) |
@@ -458,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/HrishikeshWadile/leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0142-linked-list-cycle-ii](https://github.com/HrishikeshWadile/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/HrishikeshWadile/leetcode/tree/master/0206-reverse-linked-list) |
+| [0817-linked-list-components](https://github.com/HrishikeshWadile/leetcode/tree/master/0817-linked-list-components) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/HrishikeshWadile/leetcode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Recursion
 |  |
