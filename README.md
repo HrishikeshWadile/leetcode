@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2057-smallest-index-with-equal-value](https://github.com/HrishikeshWadile/leetcode/tree/master/2057-smallest-index-with-equal-value) |
 | [2094-finding-3-digit-even-numbers](https://github.com/HrishikeshWadile/leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/HrishikeshWadile/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2233-maximum-product-after-k-increments](https://github.com/HrishikeshWadile/leetcode/tree/master/2233-maximum-product-after-k-increments) |
 | [2239-find-closest-number-to-zero](https://github.com/HrishikeshWadile/leetcode/tree/master/2239-find-closest-number-to-zero) |
 | [2364-count-number-of-bad-pairs](https://github.com/HrishikeshWadile/leetcode/tree/master/2364-count-number-of-bad-pairs) |
 | [2432-the-employee-that-worked-on-the-longest-task](https://github.com/HrishikeshWadile/leetcode/tree/master/2432-the-employee-that-worked-on-the-longest-task) |
@@ -413,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2027-minimum-moves-to-convert-string](https://github.com/HrishikeshWadile/leetcode/tree/master/2027-minimum-moves-to-convert-string) |
 | [2029-stone-game-ix](https://github.com/HrishikeshWadile/leetcode/tree/master/2029-stone-game-ix) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/HrishikeshWadile/leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2233-maximum-product-after-k-increments](https://github.com/HrishikeshWadile/leetcode/tree/master/2233-maximum-product-after-k-increments) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/HrishikeshWadile/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2745-construct-the-longest-new-string](https://github.com/HrishikeshWadile/leetcode/tree/master/2745-construct-the-longest-new-string) |
 | [2939-maximum-xor-product](https://github.com/HrishikeshWadile/leetcode/tree/master/2939-maximum-xor-product) |
@@ -529,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1642-furthest-building-you-can-reach](https://github.com/HrishikeshWadile/leetcode/tree/master/1642-furthest-building-you-can-reach) |
+| [2233-maximum-product-after-k-increments](https://github.com/HrishikeshWadile/leetcode/tree/master/2233-maximum-product-after-k-increments) |
 ## Game Theory
 |  |
 | ------- |
