@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1642-furthest-building-you-can-reach](https://github.com/HrishikeshWadile/leetcode/tree/master/1642-furthest-building-you-can-reach) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/HrishikeshWadile/leetcode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1872-stone-game-viii](https://github.com/HrishikeshWadile/leetcode/tree/master/1872-stone-game-viii) |
+| [1937-maximum-number-of-points-with-cost](https://github.com/HrishikeshWadile/leetcode/tree/master/1937-maximum-number-of-points-with-cost) |
 | [1991-find-the-middle-index-in-array](https://github.com/HrishikeshWadile/leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/HrishikeshWadile/leetcode/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2029-stone-game-ix](https://github.com/HrishikeshWadile/leetcode/tree/master/2029-stone-game-ix) |
@@ -385,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-stone-game-v](https://github.com/HrishikeshWadile/leetcode/tree/master/1563-stone-game-v) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/HrishikeshWadile/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/HrishikeshWadile/leetcode/tree/master/1872-stone-game-viii) |
+| [1937-maximum-number-of-points-with-cost](https://github.com/HrishikeshWadile/leetcode/tree/master/1937-maximum-number-of-points-with-cost) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/HrishikeshWadile/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2745-construct-the-longest-new-string](https://github.com/HrishikeshWadile/leetcode/tree/master/2745-construct-the-longest-new-string) |
 | [3147-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/HrishikeshWadile/leetcode/tree/master/3147-taking-maximum-energy-from-the-mystic-dungeon) |
@@ -486,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0766-toeplitz-matrix](https://github.com/HrishikeshWadile/leetcode/tree/master/0766-toeplitz-matrix) |
 | [0835-image-overlap](https://github.com/HrishikeshWadile/leetcode/tree/master/0835-image-overlap) |
 | [0892-surface-area-of-3d-shapes](https://github.com/HrishikeshWadile/leetcode/tree/master/0892-surface-area-of-3d-shapes) |
+| [1937-maximum-number-of-points-with-cost](https://github.com/HrishikeshWadile/leetcode/tree/master/1937-maximum-number-of-points-with-cost) |
 | [3033-modify-the-matrix](https://github.com/HrishikeshWadile/leetcode/tree/master/3033-modify-the-matrix) |
 | [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/HrishikeshWadile/leetcode/tree/master/3402-minimum-operations-to-make-columns-strictly-increasing) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/HrishikeshWadile/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
