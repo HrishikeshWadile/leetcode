@@ -623,6 +623,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1517-find-users-with-valid-e-mails](https://github.com/HrishikeshWadile/leetcode/tree/master/1517-find-users-with-valid-e-mails) |
+| [1729-find-followers-count](https://github.com/HrishikeshWadile/leetcode/tree/master/1729-find-followers-count) |
 | [3497-analyze-subscription-conversion](https://github.com/HrishikeshWadile/leetcode/tree/master/3497-analyze-subscription-conversion) |
 ## Union-Find
 |  |
