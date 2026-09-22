@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0817-linked-list-components](https://github.com/HrishikeshWadile/leetcode/tree/master/0817-linked-list-components) |
 | [0835-image-overlap](https://github.com/HrishikeshWadile/leetcode/tree/master/0835-image-overlap) |
 | [0892-surface-area-of-3d-shapes](https://github.com/HrishikeshWadile/leetcode/tree/master/0892-surface-area-of-3d-shapes) |
+| [0905-sort-array-by-parity](https://github.com/HrishikeshWadile/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0907-sum-of-subarray-minimums](https://github.com/HrishikeshWadile/leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [0922-sort-array-by-parity-ii](https://github.com/HrishikeshWadile/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0957-prison-cells-after-n-days](https://github.com/HrishikeshWadile/leetcode/tree/master/0957-prison-cells-after-n-days) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/HrishikeshWadile/leetcode/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/HrishikeshWadile/leetcode/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/HrishikeshWadile/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0905-sort-array-by-parity](https://github.com/HrishikeshWadile/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/HrishikeshWadile/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/HrishikeshWadile/leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/HrishikeshWadile/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -366,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/HrishikeshWadile/leetcode/tree/master/0541-reverse-string-ii) |
 | [0680-valid-palindrome-ii](https://github.com/HrishikeshWadile/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0844-backspace-string-compare](https://github.com/HrishikeshWadile/leetcode/tree/master/0844-backspace-string-compare) |
+| [0905-sort-array-by-parity](https://github.com/HrishikeshWadile/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0917-reverse-only-letters](https://github.com/HrishikeshWadile/leetcode/tree/master/0917-reverse-only-letters) |
 | [0922-sort-array-by-parity-ii](https://github.com/HrishikeshWadile/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [1768-merge-strings-alternately](https://github.com/HrishikeshWadile/leetcode/tree/master/1768-merge-strings-alternately) |
