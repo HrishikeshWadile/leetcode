@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3423-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/HrishikeshWadile/leetcode/tree/master/3423-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3452-sum-of-good-numbers](https://github.com/HrishikeshWadile/leetcode/tree/master/3452-sum-of-good-numbers) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/HrishikeshWadile/leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3473-sum-of-k-subarrays-with-length-at-least-m](https://github.com/HrishikeshWadile/leetcode/tree/master/3473-sum-of-k-subarrays-with-length-at-least-m) |
 | [3483-unique-3-digit-even-numbers](https://github.com/HrishikeshWadile/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/HrishikeshWadile/leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/HrishikeshWadile/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -373,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1991-find-the-middle-index-in-array](https://github.com/HrishikeshWadile/leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [3147-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/HrishikeshWadile/leetcode/tree/master/3147-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3152-special-array-ii](https://github.com/HrishikeshWadile/leetcode/tree/master/3152-special-array-ii) |
+| [3473-sum-of-k-subarrays-with-length-at-least-m](https://github.com/HrishikeshWadile/leetcode/tree/master/3473-sum-of-k-subarrays-with-length-at-least-m) |
 | [3903-smallest-stable-index-i](https://github.com/HrishikeshWadile/leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/HrishikeshWadile/leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Two Pointers
@@ -430,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/HrishikeshWadile/leetcode/tree/master/3218-minimum-cost-for-cutting-cake-i) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/HrishikeshWadile/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/HrishikeshWadile/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3473-sum-of-k-subarrays-with-length-at-least-m](https://github.com/HrishikeshWadile/leetcode/tree/master/3473-sum-of-k-subarrays-with-length-at-least-m) |
 | [3524-find-x-value-of-array-i](https://github.com/HrishikeshWadile/leetcode/tree/master/3524-find-x-value-of-array-i) |
 | [3840-house-robber-v](https://github.com/HrishikeshWadile/leetcode/tree/master/3840-house-robber-v) |
 ## Greedy
