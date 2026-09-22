@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/HrishikeshWadile/leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/HrishikeshWadile/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/HrishikeshWadile/leetcode/tree/master/3731-find-missing-elements) |
+| [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/HrishikeshWadile/leetcode/tree/master/3780-maximum-sum-of-three-numbers-divisible-by-three) |
 | [3875-construct-uniform-parity-array-i](https://github.com/HrishikeshWadile/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/HrishikeshWadile/leetcode/tree/master/3880-minimum-absolute-difference-between-two-values) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/HrishikeshWadile/leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/HrishikeshWadile/leetcode/tree/master/3218-minimum-cost-for-cutting-cake-i) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/HrishikeshWadile/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3731-find-missing-elements](https://github.com/HrishikeshWadile/leetcode/tree/master/3731-find-missing-elements) |
+| [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/HrishikeshWadile/leetcode/tree/master/3780-maximum-sum-of-three-numbers-divisible-by-three) |
 ## String
 |  |
 | ------- |
@@ -439,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3348-smallest-divisible-digit-product-ii](https://github.com/HrishikeshWadile/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/HrishikeshWadile/leetcode/tree/master/3402-minimum-operations-to-make-columns-strictly-increasing) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/HrishikeshWadile/leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/HrishikeshWadile/leetcode/tree/master/3780-maximum-sum-of-three-numbers-divisible-by-three) |
 ## Counting
 |  |
 | ------- |
@@ -548,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1642-furthest-building-you-can-reach](https://github.com/HrishikeshWadile/leetcode/tree/master/1642-furthest-building-you-can-reach) |
 | [2233-maximum-product-after-k-increments](https://github.com/HrishikeshWadile/leetcode/tree/master/2233-maximum-product-after-k-increments) |
+| [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/HrishikeshWadile/leetcode/tree/master/3780-maximum-sum-of-three-numbers-divisible-by-three) |
 ## Game Theory
 |  |
 | ------- |
