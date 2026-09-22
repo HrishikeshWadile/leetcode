@@ -284,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/HrishikeshWadile/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0686-repeated-string-match](https://github.com/HrishikeshWadile/leetcode/tree/master/0686-repeated-string-match) |
 | [0771-jewels-and-stones](https://github.com/HrishikeshWadile/leetcode/tree/master/0771-jewels-and-stones) |
+| [0838-push-dominoes](https://github.com/HrishikeshWadile/leetcode/tree/master/0838-push-dominoes) |
 | [0844-backspace-string-compare](https://github.com/HrishikeshWadile/leetcode/tree/master/0844-backspace-string-compare) |
 | [0917-reverse-only-letters](https://github.com/HrishikeshWadile/leetcode/tree/master/0917-reverse-only-letters) |
 | [0940-distinct-subsequences-ii](https://github.com/HrishikeshWadile/leetcode/tree/master/0940-distinct-subsequences-ii) |
@@ -387,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0457-circular-array-loop](https://github.com/HrishikeshWadile/leetcode/tree/master/0457-circular-array-loop) |
 | [0541-reverse-string-ii](https://github.com/HrishikeshWadile/leetcode/tree/master/0541-reverse-string-ii) |
 | [0680-valid-palindrome-ii](https://github.com/HrishikeshWadile/leetcode/tree/master/0680-valid-palindrome-ii) |
+| [0838-push-dominoes](https://github.com/HrishikeshWadile/leetcode/tree/master/0838-push-dominoes) |
 | [0844-backspace-string-compare](https://github.com/HrishikeshWadile/leetcode/tree/master/0844-backspace-string-compare) |
 | [0905-sort-array-by-parity](https://github.com/HrishikeshWadile/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0917-reverse-only-letters](https://github.com/HrishikeshWadile/leetcode/tree/master/0917-reverse-only-letters) |
@@ -411,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/HrishikeshWadile/leetcode/tree/master/0115-distinct-subsequences) |
 | [0338-counting-bits](https://github.com/HrishikeshWadile/leetcode/tree/master/0338-counting-bits) |
 | [0486-predict-the-winner](https://github.com/HrishikeshWadile/leetcode/tree/master/0486-predict-the-winner) |
+| [0838-push-dominoes](https://github.com/HrishikeshWadile/leetcode/tree/master/0838-push-dominoes) |
 | [0907-sum-of-subarray-minimums](https://github.com/HrishikeshWadile/leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [0940-distinct-subsequences-ii](https://github.com/HrishikeshWadile/leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/HrishikeshWadile/leetcode/tree/master/1140-stone-game-ii) |
