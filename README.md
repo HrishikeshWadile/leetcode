@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/HrishikeshWadile/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/HrishikeshWadile/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3697-compute-decimal-representation](https://github.com/HrishikeshWadile/leetcode/tree/master/3697-compute-decimal-representation) |
+| [3701-compute-alternating-sum](https://github.com/HrishikeshWadile/leetcode/tree/master/3701-compute-alternating-sum) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/HrishikeshWadile/leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/HrishikeshWadile/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/HrishikeshWadile/leetcode/tree/master/3731-find-missing-elements) |
@@ -351,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3038-maximum-number-of-operations-with-the-same-score-i](https://github.com/HrishikeshWadile/leetcode/tree/master/3038-maximum-number-of-operations-with-the-same-score-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/HrishikeshWadile/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3597-partition-string](https://github.com/HrishikeshWadile/leetcode/tree/master/3597-partition-string) |
+| [3701-compute-alternating-sum](https://github.com/HrishikeshWadile/leetcode/tree/master/3701-compute-alternating-sum) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/HrishikeshWadile/leetcode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3894-traffic-signal-color](https://github.com/HrishikeshWadile/leetcode/tree/master/3894-traffic-signal-color) |
 ## Number Theory
