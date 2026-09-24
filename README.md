@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1007-minimum-domino-rotations-for-equal-row](https://github.com/HrishikeshWadile/leetcode/tree/master/1007-minimum-domino-rotations-for-equal-row) |
 | [1140-stone-game-ii](https://github.com/HrishikeshWadile/leetcode/tree/master/1140-stone-game-ii) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/HrishikeshWadile/leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/HrishikeshWadile/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/HrishikeshWadile/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1389-create-target-array-in-the-given-order](https://github.com/HrishikeshWadile/leetcode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1406-stone-game-iii](https://github.com/HrishikeshWadile/leetcode/tree/master/1406-stone-game-iii) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/HrishikeshWadile/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/HrishikeshWadile/leetcode/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/HrishikeshWadile/leetcode/tree/master/0374-guess-number-higher-or-lower) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/HrishikeshWadile/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/HrishikeshWadile/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/HrishikeshWadile/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2111-minimum-operations-to-make-the-array-k-increasing](https://github.com/HrishikeshWadile/leetcode/tree/master/2111-minimum-operations-to-make-the-array-k-increasing) |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/HrishikeshWadile/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/HrishikeshWadile/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/HrishikeshWadile/leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/HrishikeshWadile/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/HrishikeshWadile/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2094-finding-3-digit-even-numbers](https://github.com/HrishikeshWadile/leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/HrishikeshWadile/leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
@@ -403,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/HrishikeshWadile/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0917-reverse-only-letters](https://github.com/HrishikeshWadile/leetcode/tree/master/0917-reverse-only-letters) |
 | [0922-sort-array-by-parity-ii](https://github.com/HrishikeshWadile/leetcode/tree/master/0922-sort-array-by-parity-ii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/HrishikeshWadile/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1768-merge-strings-alternately](https://github.com/HrishikeshWadile/leetcode/tree/master/1768-merge-strings-alternately) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/HrishikeshWadile/leetcode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2465-number-of-distinct-averages](https://github.com/HrishikeshWadile/leetcode/tree/master/2465-number-of-distinct-averages) |
