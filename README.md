@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-two-out-of-three](https://github.com/HrishikeshWadile/leetcode/tree/master/2032-two-out-of-three) |
 | [2057-smallest-index-with-equal-value](https://github.com/HrishikeshWadile/leetcode/tree/master/2057-smallest-index-with-equal-value) |
 | [2094-finding-3-digit-even-numbers](https://github.com/HrishikeshWadile/leetcode/tree/master/2094-finding-3-digit-even-numbers) |
+| [2111-minimum-operations-to-make-the-array-k-increasing](https://github.com/HrishikeshWadile/leetcode/tree/master/2111-minimum-operations-to-make-the-array-k-increasing) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/HrishikeshWadile/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/HrishikeshWadile/leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2206-divide-array-into-equal-pairs](https://github.com/HrishikeshWadile/leetcode/tree/master/2206-divide-array-into-equal-pairs) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/HrishikeshWadile/leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/HrishikeshWadile/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/HrishikeshWadile/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2111-minimum-operations-to-make-the-array-k-increasing](https://github.com/HrishikeshWadile/leetcode/tree/master/2111-minimum-operations-to-make-the-array-k-increasing) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/HrishikeshWadile/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3152-special-array-ii](https://github.com/HrishikeshWadile/leetcode/tree/master/3152-special-array-ii) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/HrishikeshWadile/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -723,4 +725,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/HrishikeshWadile/leetcode/tree/master/0561-array-partition) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [2111-minimum-operations-to-make-the-array-k-increasing](https://github.com/HrishikeshWadile/leetcode/tree/master/2111-minimum-operations-to-make-the-array-k-increasing) |
 <!---LeetCode Topics End-->
