@@ -672,6 +672,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0577-employee-bonus](https://github.com/HrishikeshWadile/leetcode/tree/master/0577-employee-bonus) |
+| [1148-article-views-i](https://github.com/HrishikeshWadile/leetcode/tree/master/1148-article-views-i) |
 | [1517-find-users-with-valid-e-mails](https://github.com/HrishikeshWadile/leetcode/tree/master/1517-find-users-with-valid-e-mails) |
 | [1661-average-time-of-process-per-machine](https://github.com/HrishikeshWadile/leetcode/tree/master/1661-average-time-of-process-per-machine) |
 | [1683-invalid-tweets](https://github.com/HrishikeshWadile/leetcode/tree/master/1683-invalid-tweets) |
