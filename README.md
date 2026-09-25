@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0817-linked-list-components](https://github.com/HrishikeshWadile/leetcode/tree/master/0817-linked-list-components) |
 | [0957-prison-cells-after-n-days](https://github.com/HrishikeshWadile/leetcode/tree/master/0957-prison-cells-after-n-days) |
 | [1079-letter-tile-possibilities](https://github.com/HrishikeshWadile/leetcode/tree/master/1079-letter-tile-possibilities) |
+| [1096-brace-expansion-ii](https://github.com/HrishikeshWadile/leetcode/tree/master/1096-brace-expansion-ii) |
 | [1386-cinema-seat-allocation](https://github.com/HrishikeshWadile/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1436-destination-city](https://github.com/HrishikeshWadile/leetcode/tree/master/1436-destination-city) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/HrishikeshWadile/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/HrishikeshWadile/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/HrishikeshWadile/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/HrishikeshWadile/leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
+| [1096-brace-expansion-ii](https://github.com/HrishikeshWadile/leetcode/tree/master/1096-brace-expansion-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/HrishikeshWadile/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/HrishikeshWadile/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2094-finding-3-digit-even-numbers](https://github.com/HrishikeshWadile/leetcode/tree/master/2094-finding-3-digit-even-numbers) |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-distinct-subsequences-ii](https://github.com/HrishikeshWadile/leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1078-occurrences-after-bigram](https://github.com/HrishikeshWadile/leetcode/tree/master/1078-occurrences-after-bigram) |
 | [1079-letter-tile-possibilities](https://github.com/HrishikeshWadile/leetcode/tree/master/1079-letter-tile-possibilities) |
+| [1096-brace-expansion-ii](https://github.com/HrishikeshWadile/leetcode/tree/master/1096-brace-expansion-ii) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/HrishikeshWadile/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1328-break-a-palindrome](https://github.com/HrishikeshWadile/leetcode/tree/master/1328-break-a-palindrome) |
 | [1408-string-matching-in-an-array](https://github.com/HrishikeshWadile/leetcode/tree/master/1408-string-matching-in-an-array) |
@@ -567,6 +570,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/HrishikeshWadile/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0844-backspace-string-compare](https://github.com/HrishikeshWadile/leetcode/tree/master/0844-backspace-string-compare) |
 | [0907-sum-of-subarray-minimums](https://github.com/HrishikeshWadile/leetcode/tree/master/0907-sum-of-subarray-minimums) |
+| [1096-brace-expansion-ii](https://github.com/HrishikeshWadile/leetcode/tree/master/1096-brace-expansion-ii) |
 | [1598-crawler-log-folder](https://github.com/HrishikeshWadile/leetcode/tree/master/1598-crawler-log-folder) |
 ## Combinatorics
 |  |
@@ -584,6 +588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0090-subsets-ii](https://github.com/HrishikeshWadile/leetcode/tree/master/0090-subsets-ii) |
 | [1079-letter-tile-possibilities](https://github.com/HrishikeshWadile/leetcode/tree/master/1079-letter-tile-possibilities) |
+| [1096-brace-expansion-ii](https://github.com/HrishikeshWadile/leetcode/tree/master/1096-brace-expansion-ii) |
 | [1593-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/HrishikeshWadile/leetcode/tree/master/1593-split-a-string-into-the-max-number-of-unique-substrings) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/HrishikeshWadile/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Heap (Priority Queue)
@@ -630,6 +635,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/HrishikeshWadile/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0684-redundant-connection](https://github.com/HrishikeshWadile/leetcode/tree/master/0684-redundant-connection) |
 | [0993-cousins-in-binary-tree](https://github.com/HrishikeshWadile/leetcode/tree/master/0993-cousins-in-binary-tree) |
+| [1096-brace-expansion-ii](https://github.com/HrishikeshWadile/leetcode/tree/master/1096-brace-expansion-ii) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/HrishikeshWadile/leetcode/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/HrishikeshWadile/leetcode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [3310-remove-methods-from-project](https://github.com/HrishikeshWadile/leetcode/tree/master/3310-remove-methods-from-project) |
