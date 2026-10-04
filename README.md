@@ -298,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/HrishikeshWadile/leetcode/tree/master/0415-add-strings) |
 | [0504-base-7](https://github.com/HrishikeshWadile/leetcode/tree/master/0504-base-7) |
 | [0541-reverse-string-ii](https://github.com/HrishikeshWadile/leetcode/tree/master/0541-reverse-string-ii) |
+| [0678-valid-parenthesis-string](https://github.com/HrishikeshWadile/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/HrishikeshWadile/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0686-repeated-string-match](https://github.com/HrishikeshWadile/leetcode/tree/master/0686-repeated-string-match) |
 | [0771-jewels-and-stones](https://github.com/HrishikeshWadile/leetcode/tree/master/0771-jewels-and-stones) |
@@ -441,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/HrishikeshWadile/leetcode/tree/master/0115-distinct-subsequences) |
 | [0338-counting-bits](https://github.com/HrishikeshWadile/leetcode/tree/master/0338-counting-bits) |
 | [0486-predict-the-winner](https://github.com/HrishikeshWadile/leetcode/tree/master/0486-predict-the-winner) |
+| [0678-valid-parenthesis-string](https://github.com/HrishikeshWadile/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0838-push-dominoes](https://github.com/HrishikeshWadile/leetcode/tree/master/0838-push-dominoes) |
 | [0907-sum-of-subarray-minimums](https://github.com/HrishikeshWadile/leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [0926-flip-string-to-monotone-increasing](https://github.com/HrishikeshWadile/leetcode/tree/master/0926-flip-string-to-monotone-increasing) |
@@ -467,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/HrishikeshWadile/leetcode/tree/master/0561-array-partition) |
+| [0678-valid-parenthesis-string](https://github.com/HrishikeshWadile/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/HrishikeshWadile/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/HrishikeshWadile/leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1007-minimum-domino-rotations-for-equal-row](https://github.com/HrishikeshWadile/leetcode/tree/master/1007-minimum-domino-rotations-for-equal-row) |
@@ -578,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/HrishikeshWadile/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0227-basic-calculator-ii](https://github.com/HrishikeshWadile/leetcode/tree/master/0227-basic-calculator-ii) |
 | [0503-next-greater-element-ii](https://github.com/HrishikeshWadile/leetcode/tree/master/0503-next-greater-element-ii) |
+| [0678-valid-parenthesis-string](https://github.com/HrishikeshWadile/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0844-backspace-string-compare](https://github.com/HrishikeshWadile/leetcode/tree/master/0844-backspace-string-compare) |
 | [0907-sum-of-subarray-minimums](https://github.com/HrishikeshWadile/leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [1096-brace-expansion-ii](https://github.com/HrishikeshWadile/leetcode/tree/master/1096-brace-expansion-ii) |
@@ -761,6 +765,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/HrishikeshWadile/leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/HrishikeshWadile/leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/HrishikeshWadile/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/HrishikeshWadile/leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/HrishikeshWadile/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/HrishikeshWadile/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
