@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0172-factorial-trailing-zeroes](https://github.com/HrishikeshWadile/leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0227-basic-calculator-ii](https://github.com/HrishikeshWadile/leetcode/tree/master/0227-basic-calculator-ii) |
 | [0258-add-digits](https://github.com/HrishikeshWadile/leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/HrishikeshWadile/leetcode/tree/master/0263-ugly-number) |
