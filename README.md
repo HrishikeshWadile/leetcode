@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3099-harshad-number](https://github.com/HrishikeshWadile/leetcode/tree/master/3099-harshad-number) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/HrishikeshWadile/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/HrishikeshWadile/leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/HrishikeshWadile/leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/HrishikeshWadile/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/HrishikeshWadile/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/HrishikeshWadile/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/HrishikeshWadile/leetcode/tree/master/3218-minimum-cost-for-cutting-cake-i) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/HrishikeshWadile/leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3238-find-the-number-of-winning-players](https://github.com/HrishikeshWadile/leetcode/tree/master/3238-find-the-number-of-winning-players) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/HrishikeshWadile/leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/HrishikeshWadile/leetcode/tree/master/3402-minimum-operations-to-make-columns-strictly-increasing) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/HrishikeshWadile/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3423-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/HrishikeshWadile/leetcode/tree/master/3423-maximum-difference-between-adjacent-elements-in-a-circular-array) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2465-number-of-distinct-averages](https://github.com/HrishikeshWadile/leetcode/tree/master/2465-number-of-distinct-averages) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/HrishikeshWadile/leetcode/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [3238-find-the-number-of-winning-players](https://github.com/HrishikeshWadile/leetcode/tree/master/3238-find-the-number-of-winning-players) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/HrishikeshWadile/leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/HrishikeshWadile/leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/HrishikeshWadile/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/HrishikeshWadile/leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
