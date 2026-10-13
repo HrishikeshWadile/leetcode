@@ -1,17 +1,17 @@
 class Solution {
     public int[] getSneakyNumbers(int[] nums) {
         int[] r = new int[2];
-        Arrays.sort(nums);
-        int j = 0, n = nums.length, l = -1;
+        int j = 0, n = nums.length, c;
+        boolean[] s = new boolean[n];
         for (int i = 0; i < n; i++) {
-            if (nums[i] == l) {
-                r[j++] = l;
-                System.out.println(l);
+            c = nums[i];
+            if (s[c]) {
+                r[j++] = c;
                 if (j == 2) return r;
+            } else {
+                s[c] = true;
             }
-            l = nums[i];
         }
-
         return r;
     }
 }
