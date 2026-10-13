@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/HrishikeshWadile/leetcode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2465-number-of-distinct-averages](https://github.com/HrishikeshWadile/leetcode/tree/master/2465-number-of-distinct-averages) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/HrishikeshWadile/leetcode/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
+| [2643-row-with-maximum-ones](https://github.com/HrishikeshWadile/leetcode/tree/master/2643-row-with-maximum-ones) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/HrishikeshWadile/leetcode/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2934-minimum-operations-to-maximize-last-elements-in-arrays](https://github.com/HrishikeshWadile/leetcode/tree/master/2934-minimum-operations-to-maximize-last-elements-in-arrays) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/HrishikeshWadile/leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -584,6 +585,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0892-surface-area-of-3d-shapes](https://github.com/HrishikeshWadile/leetcode/tree/master/0892-surface-area-of-3d-shapes) |
 | [1937-maximum-number-of-points-with-cost](https://github.com/HrishikeshWadile/leetcode/tree/master/1937-maximum-number-of-points-with-cost) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/HrishikeshWadile/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2643-row-with-maximum-ones](https://github.com/HrishikeshWadile/leetcode/tree/master/2643-row-with-maximum-ones) |
 | [3033-modify-the-matrix](https://github.com/HrishikeshWadile/leetcode/tree/master/3033-modify-the-matrix) |
 | [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/HrishikeshWadile/leetcode/tree/master/3402-minimum-operations-to-make-columns-strictly-increasing) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/HrishikeshWadile/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
