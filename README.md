@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3701-compute-alternating-sum](https://github.com/HrishikeshWadile/leetcode/tree/master/3701-compute-alternating-sum) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/HrishikeshWadile/leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/HrishikeshWadile/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/HrishikeshWadile/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/HrishikeshWadile/leetcode/tree/master/3731-find-missing-elements) |
 | [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/HrishikeshWadile/leetcode/tree/master/3780-maximum-sum-of-three-numbers-divisible-by-three) |
 | [3840-house-robber-v](https://github.com/HrishikeshWadile/leetcode/tree/master/3840-house-robber-v) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/HrishikeshWadile/leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/HrishikeshWadile/leetcode/tree/master/3218-minimum-cost-for-cutting-cake-i) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/HrishikeshWadile/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/HrishikeshWadile/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/HrishikeshWadile/leetcode/tree/master/3731-find-missing-elements) |
 | [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/HrishikeshWadile/leetcode/tree/master/3780-maximum-sum-of-three-numbers-divisible-by-three) |
 ## String
@@ -503,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3348-smallest-divisible-digit-product-ii](https://github.com/HrishikeshWadile/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/HrishikeshWadile/leetcode/tree/master/3402-minimum-operations-to-make-columns-strictly-increasing) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/HrishikeshWadile/leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/HrishikeshWadile/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/HrishikeshWadile/leetcode/tree/master/3780-maximum-sum-of-three-numbers-divisible-by-three) |
 ## Counting
 |  |
