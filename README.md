@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2643-row-with-maximum-ones](https://github.com/HrishikeshWadile/leetcode/tree/master/2643-row-with-maximum-ones) |
 | [2788-split-strings-by-separator](https://github.com/HrishikeshWadile/leetcode/tree/master/2788-split-strings-by-separator) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/HrishikeshWadile/leetcode/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/HrishikeshWadile/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2934-minimum-operations-to-maximize-last-elements-in-arrays](https://github.com/HrishikeshWadile/leetcode/tree/master/2934-minimum-operations-to-maximize-last-elements-in-arrays) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/HrishikeshWadile/leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2951-find-the-peaks](https://github.com/HrishikeshWadile/leetcode/tree/master/2951-find-the-peaks) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/HrishikeshWadile/leetcode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2465-number-of-distinct-averages](https://github.com/HrishikeshWadile/leetcode/tree/master/2465-number-of-distinct-averages) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/HrishikeshWadile/leetcode/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/HrishikeshWadile/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3238-find-the-number-of-winning-players](https://github.com/HrishikeshWadile/leetcode/tree/master/3238-find-the-number-of-winning-players) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/HrishikeshWadile/leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/HrishikeshWadile/leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -364,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/HrishikeshWadile/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/HrishikeshWadile/leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3525-find-x-value-of-array-ii](https://github.com/HrishikeshWadile/leetcode/tree/master/3525-find-x-value-of-array-ii) |
 ## Simulation
@@ -801,4 +804,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/HrishikeshWadile/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/HrishikeshWadile/leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/HrishikeshWadile/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/HrishikeshWadile/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
