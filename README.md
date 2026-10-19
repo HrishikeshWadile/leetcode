@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/HrishikeshWadile/leetcode/tree/master/2029-stone-game-ix) |
 | [2032-two-out-of-three](https://github.com/HrishikeshWadile/leetcode/tree/master/2032-two-out-of-three) |
 | [2057-smallest-index-with-equal-value](https://github.com/HrishikeshWadile/leetcode/tree/master/2057-smallest-index-with-equal-value) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/HrishikeshWadile/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/HrishikeshWadile/leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2111-minimum-operations-to-make-the-array-k-increasing](https://github.com/HrishikeshWadile/leetcode/tree/master/2111-minimum-operations-to-make-the-array-k-increasing) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/HrishikeshWadile/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/HrishikeshWadile/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/HrishikeshWadile/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/HrishikeshWadile/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/HrishikeshWadile/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2111-minimum-operations-to-make-the-array-k-increasing](https://github.com/HrishikeshWadile/leetcode/tree/master/2111-minimum-operations-to-make-the-array-k-increasing) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/HrishikeshWadile/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/HrishikeshWadile/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1096-brace-expansion-ii](https://github.com/HrishikeshWadile/leetcode/tree/master/1096-brace-expansion-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/HrishikeshWadile/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/HrishikeshWadile/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/HrishikeshWadile/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/HrishikeshWadile/leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/HrishikeshWadile/leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/HrishikeshWadile/leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
