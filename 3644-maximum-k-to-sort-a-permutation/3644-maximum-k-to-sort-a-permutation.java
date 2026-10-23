@@ -14,13 +14,13 @@ class Solution {
         }
 
         // First misplaced element initializes k
-        int k = nums[i];
+        int k = i;
         i++;
 
         // AND all remaining misplaced elements
         while (i < n) {
             if (nums[i] != i) {
-                k &= nums[i];
+                k &= i;
 
                 if (k == 0) {
                     return 0;
