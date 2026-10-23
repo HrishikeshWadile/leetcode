@@ -1,34 +1,10 @@
 class Solution {
     public int sortPermutation(int[] nums) {
-        int n = nums.length;
-        int i = 0;
-
-        // Find the first misplaced element
-        while (i < n && nums[i] == i) {
-            i++;
+        int n = nums.length, k = (1 << 17) - 1;
+        for (int i = 0; i < n; i++) {
+            if (nums[i] == i) continue;
+            k &= i;
         }
-
-        // Already sorted
-        if (i == n) {
-            return 0;
-        }
-
-        // First misplaced element initializes k
-        int k = i;
-        i++;
-
-        // AND all remaining misplaced elements
-        while (i < n) {
-            if (nums[i] != i) {
-                k &= i;
-
-                if (k == 0) {
-                    return 0;
-                }
-            }
-            i++;
-        }
-
-        return k;
+        return k == ((1 << 17) - 1) ? 0 : k;
     }
 }
