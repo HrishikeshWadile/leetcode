@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/HrishikeshWadile/leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/HrishikeshWadile/leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2364-count-number-of-bad-pairs](https://github.com/HrishikeshWadile/leetcode/tree/master/2364-count-number-of-bad-pairs) |
+| [2409-count-days-spent-together](https://github.com/HrishikeshWadile/leetcode/tree/master/2409-count-days-spent-together) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/HrishikeshWadile/leetcode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/HrishikeshWadile/leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2582-pass-the-pillow](https://github.com/HrishikeshWadile/leetcode/tree/master/2582-pass-the-pillow) |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2027-minimum-moves-to-convert-string](https://github.com/HrishikeshWadile/leetcode/tree/master/2027-minimum-moves-to-convert-string) |
 | [2047-number-of-valid-words-in-a-sentence](https://github.com/HrishikeshWadile/leetcode/tree/master/2047-number-of-valid-words-in-a-sentence) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/HrishikeshWadile/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2409-count-days-spent-together](https://github.com/HrishikeshWadile/leetcode/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/HrishikeshWadile/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2788-split-strings-by-separator](https://github.com/HrishikeshWadile/leetcode/tree/master/2788-split-strings-by-separator) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/HrishikeshWadile/leetcode/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
