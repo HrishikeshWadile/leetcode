@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/HrishikeshWadile/leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1007-minimum-domino-rotations-for-equal-row](https://github.com/HrishikeshWadile/leetcode/tree/master/1007-minimum-domino-rotations-for-equal-row) |
 | [1140-stone-game-ii](https://github.com/HrishikeshWadile/leetcode/tree/master/1140-stone-game-ii) |
+| [1254-number-of-closed-islands](https://github.com/HrishikeshWadile/leetcode/tree/master/1254-number-of-closed-islands) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/HrishikeshWadile/leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/HrishikeshWadile/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/HrishikeshWadile/leetcode/tree/master/1386-cinema-seat-allocation) |
@@ -606,6 +607,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0766-toeplitz-matrix](https://github.com/HrishikeshWadile/leetcode/tree/master/0766-toeplitz-matrix) |
 | [0835-image-overlap](https://github.com/HrishikeshWadile/leetcode/tree/master/0835-image-overlap) |
 | [0892-surface-area-of-3d-shapes](https://github.com/HrishikeshWadile/leetcode/tree/master/0892-surface-area-of-3d-shapes) |
+| [1254-number-of-closed-islands](https://github.com/HrishikeshWadile/leetcode/tree/master/1254-number-of-closed-islands) |
 | [1937-maximum-number-of-points-with-cost](https://github.com/HrishikeshWadile/leetcode/tree/master/1937-maximum-number-of-points-with-cost) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/HrishikeshWadile/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2643-row-with-maximum-ones](https://github.com/HrishikeshWadile/leetcode/tree/master/2643-row-with-maximum-ones) |
@@ -688,6 +690,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/HrishikeshWadile/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0684-redundant-connection](https://github.com/HrishikeshWadile/leetcode/tree/master/0684-redundant-connection) |
 | [0993-cousins-in-binary-tree](https://github.com/HrishikeshWadile/leetcode/tree/master/0993-cousins-in-binary-tree) |
+| [1254-number-of-closed-islands](https://github.com/HrishikeshWadile/leetcode/tree/master/1254-number-of-closed-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/HrishikeshWadile/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/HrishikeshWadile/leetcode/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/HrishikeshWadile/leetcode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
@@ -701,6 +704,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/HrishikeshWadile/leetcode/tree/master/0684-redundant-connection) |
 | [0993-cousins-in-binary-tree](https://github.com/HrishikeshWadile/leetcode/tree/master/0993-cousins-in-binary-tree) |
 | [1096-brace-expansion-ii](https://github.com/HrishikeshWadile/leetcode/tree/master/1096-brace-expansion-ii) |
+| [1254-number-of-closed-islands](https://github.com/HrishikeshWadile/leetcode/tree/master/1254-number-of-closed-islands) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/HrishikeshWadile/leetcode/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/HrishikeshWadile/leetcode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [3310-remove-methods-from-project](https://github.com/HrishikeshWadile/leetcode/tree/master/3310-remove-methods-from-project) |
@@ -766,6 +770,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/HrishikeshWadile/leetcode/tree/master/0684-redundant-connection) |
+| [1254-number-of-closed-islands](https://github.com/HrishikeshWadile/leetcode/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/HrishikeshWadile/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/HrishikeshWadile/leetcode/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/HrishikeshWadile/leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
