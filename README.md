@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3840-house-robber-v](https://github.com/HrishikeshWadile/leetcode/tree/master/3840-house-robber-v) |
 | [3875-construct-uniform-parity-array-i](https://github.com/HrishikeshWadile/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/HrishikeshWadile/leetcode/tree/master/3880-minimum-absolute-difference-between-two-values) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/HrishikeshWadile/leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/HrishikeshWadile/leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3903-smallest-stable-index-i](https://github.com/HrishikeshWadile/leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/HrishikeshWadile/leetcode/tree/master/3904-smallest-stable-index-ii) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/HrishikeshWadile/leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/HrishikeshWadile/leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/HrishikeshWadile/leetcode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/HrishikeshWadile/leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Sorting
 |  |
 | ------- |
@@ -501,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3473-sum-of-k-subarrays-with-length-at-least-m](https://github.com/HrishikeshWadile/leetcode/tree/master/3473-sum-of-k-subarrays-with-length-at-least-m) |
 | [3524-find-x-value-of-array-i](https://github.com/HrishikeshWadile/leetcode/tree/master/3524-find-x-value-of-array-i) |
 | [3840-house-robber-v](https://github.com/HrishikeshWadile/leetcode/tree/master/3840-house-robber-v) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/HrishikeshWadile/leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Greedy
 |  |
 | ------- |
@@ -616,6 +619,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/HrishikeshWadile/leetcode/tree/master/3402-minimum-operations-to-make-columns-strictly-increasing) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/HrishikeshWadile/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/HrishikeshWadile/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/HrishikeshWadile/leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/HrishikeshWadile/leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Concurrency
 |  |
