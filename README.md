@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/HrishikeshWadile/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/HrishikeshWadile/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/HrishikeshWadile/leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3665-twisted-mirror-path-count](https://github.com/HrishikeshWadile/leetcode/tree/master/3665-twisted-mirror-path-count) |
 | [3697-compute-decimal-representation](https://github.com/HrishikeshWadile/leetcode/tree/master/3697-compute-decimal-representation) |
 | [3701-compute-alternating-sum](https://github.com/HrishikeshWadile/leetcode/tree/master/3701-compute-alternating-sum) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/HrishikeshWadile/leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -506,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/HrishikeshWadile/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3473-sum-of-k-subarrays-with-length-at-least-m](https://github.com/HrishikeshWadile/leetcode/tree/master/3473-sum-of-k-subarrays-with-length-at-least-m) |
 | [3524-find-x-value-of-array-i](https://github.com/HrishikeshWadile/leetcode/tree/master/3524-find-x-value-of-array-i) |
+| [3665-twisted-mirror-path-count](https://github.com/HrishikeshWadile/leetcode/tree/master/3665-twisted-mirror-path-count) |
 | [3840-house-robber-v](https://github.com/HrishikeshWadile/leetcode/tree/master/3840-house-robber-v) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/HrishikeshWadile/leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Greedy
@@ -624,6 +626,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/HrishikeshWadile/leetcode/tree/master/3402-minimum-operations-to-make-columns-strictly-increasing) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/HrishikeshWadile/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/HrishikeshWadile/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3665-twisted-mirror-path-count](https://github.com/HrishikeshWadile/leetcode/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/HrishikeshWadile/leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/HrishikeshWadile/leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Concurrency
