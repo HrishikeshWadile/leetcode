@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/HrishikeshWadile/leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/HrishikeshWadile/leetcode/tree/master/3402-minimum-operations-to-make-columns-strictly-increasing) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/HrishikeshWadile/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/HrishikeshWadile/leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3423-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/HrishikeshWadile/leetcode/tree/master/3423-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3452-sum-of-good-numbers](https://github.com/HrishikeshWadile/leetcode/tree/master/3452-sum-of-good-numbers) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/HrishikeshWadile/leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -404,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/HrishikeshWadile/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/HrishikeshWadile/leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/HrishikeshWadile/leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3525-find-x-value-of-array-ii](https://github.com/HrishikeshWadile/leetcode/tree/master/3525-find-x-value-of-array-ii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/HrishikeshWadile/leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -630,6 +632,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/HrishikeshWadile/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2747-count-zero-request-servers](https://github.com/HrishikeshWadile/leetcode/tree/master/2747-count-zero-request-servers) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/HrishikeshWadile/leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/HrishikeshWadile/leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/HrishikeshWadile/leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Matrix
 |  |
@@ -672,6 +675,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/HrishikeshWadile/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/HrishikeshWadile/leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1598-crawler-log-folder](https://github.com/HrishikeshWadile/leetcode/tree/master/1598-crawler-log-folder) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/HrishikeshWadile/leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Combinatorics
 |  |
 | ------- |
@@ -799,6 +803,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/HrishikeshWadile/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/HrishikeshWadile/leetcode/tree/master/0907-sum-of-subarray-minimums) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/HrishikeshWadile/leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Database
 |  |
 | ------- |
@@ -891,4 +896,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/HrishikeshWadile/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Queue
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/HrishikeshWadile/leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Monotonic Queue
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/HrishikeshWadile/leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 <!---LeetCode Topics End-->
